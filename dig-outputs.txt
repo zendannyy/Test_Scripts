@@ -1,0 +1,25 @@
+13.33.255.80:Server:		10.103.0.36
+Address:	10.103.0.36#53
+
+Non-authoritative answer:
+80.255.33.13.in-addr.arpa	name = server-13-33-255-80.den50.r.cloudfront.net.
+
+Authoritative answers can be found from:
+13.33.255.80	 	 	
+13.33.251.34	 	 		 	 	 
+13.33.255.78	 	 	 	 
+99.84.168.22	 	 	 	 	 
+52.109.12.18	 	 	 	 
+52.109.12.23	 	 		 
+52.109.120.17	 	 	 	 
+52.109.120.22	 	 	
+52.109.76.30	 	 		 
+52.109.120.2213.33.255.80:Server:		10.103.0.36
+Address:	10.103.0.36#53
+
+Non-authoritative answer:
+80.255.33.13.in-addr.arpa	name = server-13-33-255-80.den50.r.cloudfront.net.
+
+Authoritative answers can be found from:
+13.33.251.34 13.33.255.78 99.84.168.22 52.109.12.18 52.109.12.23 52.109.120.17 52.109.120.22:;; connection timed out; no servers could be reached
+52.109.76.30 52.109.120.22:;; connection timed out; no servers could be reached

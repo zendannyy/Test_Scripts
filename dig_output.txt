@@ -1,0 +1,9 @@
+10.103.0.119:zyntranet.apps.corp.zynga.com.
+zyntranet.corp.zynga.com.
+10.103.1.122:c7-adart01.corp.zynga.com.
+10.103.0.21:sv4-fas01b.corp.zynga.com.
+10.103.1.151:sv4-sqlcls01a.corp.zynga.com.
+10.103.0.70:van-ome01.corp.zynga.com.
+10.103.2.91:sv4-pki-sub01.corp.zynga.com.
+10.103.1.28:van-mdm-stor01.corp.zynga.com.
+10.103.1.106:sv4-sec-dcptv01.corp.zynga.com.
