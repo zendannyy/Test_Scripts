@@ -1,5 +1,0 @@
-#!/bin/bash
-open http://www.twitter.com
-sleep 3 
-say "welcome to Twitter mite"
-
