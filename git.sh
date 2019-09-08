@@ -5,7 +5,7 @@
 	git init
 	git fetch
 	git add -A
-	git commit -m "updating"
+	git commit -m "update"
 
 	# git remote add origin repo URL
 	# git remote -v
