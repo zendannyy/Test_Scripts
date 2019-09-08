@@ -270,7 +270,7 @@ class FreqCounter(dict):
 
 
 
-if __name__ == "__main__":      # cmdline to measure: python3 freq.py -m rare_domains.xlsx freqtable2018.freq  , the higher the number the higher the likelihood
+if __name__ == "__main__":	# cmdline to measure: python3 freq.py -m rare_domains.xlsx freqtable2018.freq  , the higher the number the higher the likelihood
     import argparse
     import os
     parser=argparse.ArgumentParser()

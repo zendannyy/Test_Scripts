@@ -1,0 +1,6 @@
+#Some output relating to launchd
+launchd     1           root   25u  IPv4 0x4416b69c19305337      0t0  TCP *:rfb (LISTEN)
+launchd     1           root   50u  IPv6 0x4416b69c1e9107e7      0t0  TCP *:ssh (LISTEN)
+launchd     1           root   51u  IPv4 0x4416b69c24caea3f      0t0  TCP *:ssh (LISTEN)
+launchd     1           root   54u  IPv4 0x4416b69c18838227      0t0  UDP *:netbios-ns
+launchd     1           root   55u  IPv4 0x4416b69c18838947      0t0  UDP *:netbios-dgm

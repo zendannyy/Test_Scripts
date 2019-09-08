@@ -1,0 +1,1174 @@
+2016-05-05 14:38:33 :  
+2016-05-05 14:38:33 : ----- Scan Started -----
+2016-05-05 14:38:34 : Scanning with signatures version 66 (2016-5-2)
+2016-05-05 14:38:34 : EICAR-AV-Test : /Users/Shared/malwarebytes/eicar.txt
+2016-05-05 14:38:37 : OSX.Genieo : /Users/thomas/Library/LaunchAgents/Leperdvil.download.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.ltvbit.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.update.plist
+2016-05-05 14:38:37 : OSX.Genieo : /Users/thomas/Library/LaunchAgents/Leperdvil.update.plist
+2016-05-05 14:38:45 : *** Scan time: 0d 00:00:11 ***
+2016-05-05 14:38:45 : ------ Scan Ended ------
+2016-05-05 14:38:46 : Scan complete.
+2016-05-05 14:38:46 : Threats were not removed.
+2016-05-05 14:47:21 :  
+2016-05-05 14:47:21 : ----- Scan Started -----
+2016-05-05 14:47:21 : Scanning with signatures version 66 (2016-5-2)
+2016-05-05 14:47:21 : EICAR-AV-Test : /Users/Shared/malwarebytes/eicar.txt
+2016-05-05 14:47:30 : OSX.Crisis : /Users/thomas/Library/LaunchAgents/com.apple.FinderExtAvt.plist
+2016-05-05 14:47:30 : OSX.Crisis : /Users/thomas/Library/Preferences/8pHbqThW
+2016-05-05 14:47:31 : *** Scan time: 0d 00:00:10 ***
+2016-05-05 14:47:31 : ------ Scan Ended ------
+2016-05-05 14:47:32 : Scan complete.
+2016-05-05 14:47:32 : Removing detected threats...
+2016-05-05 14:47:32 :  > Removing: /Users/Shared/malwarebytes/eicar.txt
+2016-05-05 14:47:32 : >> Removing file item: /Users/Shared/malwarebytes/eicar.txt
+2016-05-05 14:47:32 :  > Removing: /Users/thomas/Library/LaunchAgents/com.apple.FinderExtAvt.plist
+2016-05-05 14:47:32 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.apple.FinderExtAvt.plist
+2016-05-05 14:47:32 :  > Removing: /Users/thomas/Library/Preferences/8pHbqThW
+2016-05-05 14:47:32 : >> Removing file item: /Users/thomas/Library/Preferences/8pHbqThW
+2016-05-05 14:47:32 : Threat removal complete.
+2016-05-05 14:47:32 : ===== User declined restart =====
+2016-05-06 14:30:36 :  
+2016-05-06 14:30:36 : ----- Scan Started -----
+2016-05-06 14:30:36 : Scanning with signatures version 66 (2016-5-2)
+2016-05-06 14:30:47 : OSX.Crisis : /Users/thomas/Library/LaunchAgents/com.apple.FinderExtAvt.plist
+2016-05-06 14:30:47 : OSX.Crisis : /Users/thomas/Library/Preferences/8pHbqThW
+2016-05-06 14:30:47 : *** Scan time: 0d 00:00:11 ***
+2016-05-06 14:30:47 : ------ Scan Ended ------
+2016-05-06 14:30:49 : Scan complete.
+2016-05-06 14:30:49 : Removing detected threats...
+2016-05-06 14:30:49 :  > Removing: /Users/thomas/Library/LaunchAgents/com.apple.FinderExtAvt.plist
+2016-05-06 14:30:49 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.apple.FinderExtAvt.plist
+2016-05-06 14:30:49 :  > Removing: /Users/thomas/Library/Preferences/8pHbqThW
+2016-05-06 14:30:49 : >> Removing file item: /Users/thomas/Library/Preferences/8pHbqThW
+2016-05-06 14:30:49 : Threat removal complete.
+2016-05-06 14:30:49 : ===== User declined restart =====
+2016-05-13 09:26:44 :  
+2016-05-13 09:26:44 : ----- Scan Started -----
+2016-05-13 09:26:44 : Scanning with signatures version 68 (2016-5-12)
+2016-05-13 09:26:53 : Malwarebytes Breach Remediation did not find any threats on your system.
+
+2016-05-13 09:26:53 : *** Scan time: 0d 00:00:09 ***
+2016-05-13 09:26:53 : ------ Scan Ended ------
+2016-05-13 09:26:54 : Scan complete.
+2016-05-18 07:12:50 :  
+2016-05-18 07:12:50 : ----- Scan Started -----
+2016-05-18 07:12:50 : Scanning with signatures version 71 (2016-5-17)
+2016-05-18 07:12:53 : Adware.VSearch : /private/etc/st-up.sh
+2016-05-18 07:12:53 : Adware.VSearch : /Library/LaunchDaemons/com.malinfluenceUpd.plist
+2016-05-18 07:12:53 : Adware.VSearch : /Library/malinfluenceUpd
+2016-05-18 07:12:53 : OSX.Genieo : /Users/test/Library/LaunchAgents/Jimbrie.AppRemoval.plist,/Users/test/Library/LaunchAgents/Jimbrie.download.plist,/Users/test/Library/LaunchAgents/Jimbrie.ltvbit.plist,/Users/test/Library/LaunchAgents/Jimbrie.update.plist,/Users/test/Library/LaunchAgents/Jimbrie.AppRemoval.plist,/Users/test/Library/LaunchAgents/Jimbrie.download.plist,/Users/test/Library/LaunchAgents/Jimbrie.ltvbit.plist,/Users/test/Library/LaunchAgents/Jimbrie.update.plist,/Users/test/Library/LaunchAgents/Jimbrie.AppRemoval.plist,/Users/test/Library/LaunchAgents/Jimbrie.download.plist,/Users/test/Library/LaunchAgents/Jimbrie.ltvbit.plist,/Users/test/Library/LaunchAgents/Jimbrie.update.plist
+2016-05-18 07:12:53 : OSX.Genieo : /Applications/Jimbrie
+2016-05-18 07:12:53 : OSX.Genieo : /Users/test/Library/Application Support/Jimbrie
+2016-05-18 07:12:53 : OSX.Genieo : /Users/test/Library/LaunchAgents/Jimbrie.update.plist,/Users/test/Library/LaunchAgents/Jimbrie.update.plist,/Users/test/Library/LaunchAgents/Jimbrie.update.plist
+2016-05-18 07:13:01 : *** Scan time: 0d 00:00:10 ***
+2016-05-18 07:13:01 : ------ Scan Ended ------
+2016-05-18 07:13:02 : Scan complete.
+2016-05-18 07:13:02 : Removing detected threats...
+2016-05-18 07:13:02 :  > Removing: /private/etc/st-up.sh
+2016-05-18 07:13:02 : >> Removing file item: /private/etc/st-up.sh
+2016-05-18 07:13:02 :  > Removing: /Library/LaunchDaemons/com.malinfluenceUpd.plist
+2016-05-18 07:13:02 : >> Removing file item: /Library/LaunchDaemons/com.malinfluenceUpd.plist
+2016-05-18 07:13:02 :  > Removing: /Library/malinfluenceUpd
+2016-05-18 07:13:02 : >> Removing file item: /Library/malinfluenceUpd
+2016-05-18 07:13:02 :  > Removing: /Users/test/Library/LaunchAgents/Jimbrie.AppRemoval.plist,/Users/test/Library/LaunchAgents/Jimbrie.download.plist,/Users/test/Library/LaunchAgents/Jimbrie.ltvbit.plist,/Users/test/Library/LaunchAgents/Jimbrie.update.plist,/Users/test/Library/LaunchAgents/Jimbrie.AppRemoval.plist,/Users/test/Library/LaunchAgents/Jimbrie.download.plist,/Users/test/Library/LaunchAgents/Jimbrie.ltvbit.plist,/Users/test/Library/LaunchAgents/Jimbrie.update.plist,/Users/test/Library/LaunchAgents/Jimbrie.AppRemoval.plist,/Users/test/Library/LaunchAgents/Jimbrie.download.plist,/Users/test/Library/LaunchAgents/Jimbrie.ltvbit.plist,/Users/test/Library/LaunchAgents/Jimbrie.update.plist
+2016-05-18 07:13:02 : >> Removing file item: /Users/test/Library/LaunchAgents/Jimbrie.AppRemoval.plist
+2016-05-18 07:13:02 : >> Removing file item: /Users/test/Library/LaunchAgents/Jimbrie.download.plist
+2016-05-18 07:13:02 : >> Removing file item: /Users/test/Library/LaunchAgents/Jimbrie.ltvbit.plist
+2016-05-18 07:13:02 : >> Removing file item: /Users/test/Library/LaunchAgents/Jimbrie.update.plist
+2016-05-18 07:13:02 : >> Removing file item: /Users/test/Library/LaunchAgents/Jimbrie.AppRemoval.plist
+2016-05-18 07:13:02 : >> Removing file item: /Users/test/Library/LaunchAgents/Jimbrie.download.plist
+2016-05-18 07:13:02 : >> Removing file item: /Users/test/Library/LaunchAgents/Jimbrie.ltvbit.plist
+2016-05-18 07:13:02 : >> Removing file item: /Users/test/Library/LaunchAgents/Jimbrie.update.plist
+2016-05-18 07:13:02 : >> Removing file item: /Users/test/Library/LaunchAgents/Jimbrie.AppRemoval.plist
+2016-05-18 07:13:02 : >> Removing file item: /Users/test/Library/LaunchAgents/Jimbrie.download.plist
+2016-05-18 07:13:02 : >> Removing file item: /Users/test/Library/LaunchAgents/Jimbrie.ltvbit.plist
+2016-05-18 07:13:02 : >> Removing file item: /Users/test/Library/LaunchAgents/Jimbrie.update.plist
+2016-05-18 07:13:02 :  > Removing: /Applications/Jimbrie
+2016-05-18 07:13:02 : >> Removing file item: /Applications/Jimbrie
+2016-05-18 07:13:02 :  > Removing: /Users/test/Library/Application Support/Jimbrie
+2016-05-18 07:13:02 : >> Removing file item: /Users/test/Library/Application Support/Jimbrie
+2016-05-18 07:13:02 :  > Removing: /Users/test/Library/LaunchAgents/Jimbrie.update.plist,/Users/test/Library/LaunchAgents/Jimbrie.update.plist,/Users/test/Library/LaunchAgents/Jimbrie.update.plist
+2016-05-18 07:13:02 : >> Removing file item: /Users/test/Library/LaunchAgents/Jimbrie.update.plist
+2016-05-18 07:13:02 : >> Removing file item: /Users/test/Library/LaunchAgents/Jimbrie.update.plist
+2016-05-18 07:13:02 : >> Removing file item: /Users/test/Library/LaunchAgents/Jimbrie.update.plist
+2016-05-18 07:13:02 : Threat removal complete.
+2016-05-18 07:13:02 : ===== User declined restart =====
+2016-06-28 08:34:48 :  
+2016-06-28 08:34:48 : ----- Scan Started -----
+2016-06-28 08:34:48 : Scanning with signatures version 87 (2016-6-27)
+2016-06-28 08:34:59 : Malwarebytes Breach Remediation did not find any threats on your system.
+
+2016-06-28 08:34:59 : *** Scan time: 0d 00:00:10 ***
+2016-06-28 08:34:59 : ------ Scan Ended ------
+2016-06-28 08:35:00 : Scan complete.
+2016-06-28 09:02:09 :  
+2016-06-28 09:02:09 : ----- Scan Started -----
+2016-06-28 09:02:09 : Scanning with signatures version 87 (2016-6-27)
+2016-06-28 09:02:13 : OSX.Genieo : /Users/thomas/Library/LaunchAgents/Cucumberhead.AppRemoval.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.download.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.ltvbit.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.update.plist
+2016-06-28 09:02:13 : OSX.Genieo : /Users/thomas/Library/LaunchAgents/Cucumberhead.update.plist
+2016-06-28 09:02:22 : *** Scan time: 0d 00:00:13 ***
+2016-06-28 09:02:22 : ------ Scan Ended ------
+2016-06-28 09:02:24 : Scan complete.
+2016-06-28 09:02:24 : Removing detected threats...
+2016-06-28 09:02:24 :  > Removing: /Users/thomas/Library/LaunchAgents/Cucumberhead.AppRemoval.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.download.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.ltvbit.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.update.plist
+2016-06-28 09:02:24 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Cucumberhead.AppRemoval.plist
+2016-06-28 09:02:24 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Cucumberhead.download.plist
+2016-06-28 09:02:24 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Cucumberhead.ltvbit.plist
+2016-06-28 09:02:24 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Cucumberhead.update.plist
+2016-06-28 09:02:24 :  > Removing: /Users/thomas/Library/LaunchAgents/Cucumberhead.update.plist
+2016-06-28 09:02:24 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Cucumberhead.update.plist
+2016-06-28 09:02:24 : Threat removal complete.
+2016-06-28 09:02:24 : ===== User declined restart =====
+2016-06-28 12:09:36 :  
+2016-06-28 12:09:36 : ----- Scan Started -----
+2016-06-28 12:09:37 : Scanning with signatures version 87 (2016-6-27)
+2016-06-28 12:09:49 : Malwarebytes Breach Remediation did not find any threats on your system.
+
+2016-06-28 12:09:49 : *** Scan time: 0d 00:00:12 ***
+2016-06-28 12:09:49 : ------ Scan Ended ------
+2016-06-28 12:09:56 : Scan complete.
+2016-06-28 12:10:05 :  
+2016-06-28 12:10:05 : ----- Scan Started -----
+2016-06-28 12:10:05 : Scanning with signatures version 87 (2016-6-27)
+2016-06-28 12:10:16 : Malwarebytes Breach Remediation did not find any threats on your system.
+
+2016-06-28 12:10:16 : *** Scan time: 0d 00:00:10 ***
+2016-06-28 12:10:16 : ------ Scan Ended ------
+2016-06-28 12:10:22 : Scan complete.
+2016-06-28 12:11:03 :  
+2016-06-28 12:11:03 : ----- Scan Started -----
+2016-06-28 12:11:03 : Scanning with signatures version 87 (2016-6-27)
+2016-06-28 12:11:03 : Adware.ClickAgent : /Users/thomas/Library/Safari/Extensions/FlashPlayer11.safariextz
+2016-06-28 12:11:03 : Adware.Spigot : /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/searchme@mybrowserbar.com.xpi,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{84977DE9-1026-4508-B9A7-9116BDAAB098}.xpi,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{A92BC493-FA5B-40a5-AFC8-6672926C9544}.xpi
+2016-06-28 12:11:03 : Adware.IronCore : /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{1e75ea56-e618-41ff-86a2-cc6be7bddce3}
+2016-06-28 12:11:05 : Adware.IronCore : /Users/thomas/Library/Safari/Extensions/tKa9FYS.safariextz
+2016-06-28 12:11:05 : Adware.IronCore : /Applications/searchinstStub_3.0.3.0.app
+2016-06-28 12:11:07 : Adware.Conduit : /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/cbmjmfcldbpelhknnfjbkobmabafpoed
+2016-06-28 12:11:07 : Adware.Conduit : /Users/thomas/Library/Safari/Extensions/searchExt.safariextz,/Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/cbmjmfcldbpelhknnfjbkobmabafpoed,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{7f0d2b4d-8224-4987-b8c8-311b59909a36},/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{aefeda6a-9a49-47e5-9307-ecbec7d6d879}
+2016-06-28 12:11:07 : Adware.Conduit : /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/'Conduit Customized Web Search'.xml
+2016-06-28 12:11:07 : Adware.Conduit : /Users/thomas/Library/Safari/Extensions/searchExt.safariextz
+2016-06-28 12:11:07 : Adware.VSearch : /Library/Application Support/9ad43503aa2237a3
+2016-06-28 12:11:07 : Adware.VSearch : /Library/Application Support/Dares
+2016-06-28 12:11:07 : Adware.VSearch : /Library/Application Support/Dares,/Library/Application Support/Horntail
+2016-06-28 12:11:07 : Adware.VSearch : /Library/LaunchAgents/com.9ad43503aa2237a3.agent.plist
+2016-06-28 12:11:07 : Adware.VSearch : /Library/LaunchDaemons/com.9ad43503aa2237a3.daemon.plist,/Library/LaunchDaemons/com.9ad43503aa2237a3.helper.plist
+2016-06-28 12:11:07 : Adware.VSearch : /Library/LaunchAgents/com.9ad43503aa2237a3.agent.plist,/Library/LaunchAgents/com.dares.agent.plist
+2016-06-28 12:11:07 : Adware.VSearch : /Library/LaunchDaemons/com.9ad43503aa2237a3.daemon.plist,/Library/LaunchDaemons/com.9ad43503aa2237a3.helper.plist,/Library/LaunchDaemons/com.dares.daemon.plist,/Library/LaunchDaemons/com.dares.helper.plist,/Library/LaunchDaemons/com.horntail.daemon.plist,/Library/LaunchDaemons/com.horntail.helper.plist
+2016-06-28 12:11:07 : Adware.VSearch : /Library/precommunicate
+2016-06-28 12:11:07 : Adware.VSearch : /Library/LaunchDaemons/com.precommunicate.net-preferences.plist
+2016-06-28 12:11:07 : Adware.VSearch : /etc/change_net_settings.sh
+2016-06-28 12:11:08 : OSX.Genieo : /Users/thomas/Library/Safari/Extensions/Omnibar.safariextz
+2016-06-28 12:11:09 : OSX.Genieo : /Users/thomas/Library/Safari/Extensions/Cucumberhead.safariextz,/Users/thomas/Library/Safari/Extensions/InKeepr.safariextz,/Users/thomas/Library/Safari/Extensions/Jakecares.safariextz,/Users/thomas/Library/Safari/Extensions/Listchack.safariextz,/Users/thomas/Library/Safari/Extensions/Omnibar.safariextz
+2016-06-28 12:11:09 : OSX.Genieo : /Users/thomas/Library/LaunchAgents/com.installer.completer.download.plist
+2016-06-28 12:11:09 : OSX.Genieo : /Users/thomas/Library/LaunchAgents/com.installer.completer.update.plist
+2016-06-28 12:11:09 : OSX.Genieo : /Users/thomas/Library/LaunchAgents/com.installer.completer.ltvbit.plist
+2016-06-28 12:11:09 : OSX.Genieo : /Users/thomas/Library/LaunchAgents/Cucumberhead.AppRemoval.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.download.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.ltvbit.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.update.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.download.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.ltvbit.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.update.plist
+2016-06-28 12:11:09 : OSX.Genieo : /Library/LaunchAgents/com.genieoinnovation.macextension.plist
+2016-06-28 12:11:09 : OSX.Genieo : /Library/LaunchDaemons/com.genieoinnovation.macextension.client.plist
+2016-06-28 12:11:09 : OSX.Genieo : /Applications/Genieo.app
+2016-06-28 12:11:09 : OSX.Genieo : /Applications/JakeCares
+2016-06-28 12:11:09 : OSX.Genieo : /Applications/Cucumberhead
+2016-06-28 12:11:09 : OSX.Genieo : /Users/thomas/Library/Application Support/Epolife
+2016-06-28 12:11:09 : OSX.Genieo : /Users/thomas/Library/Application Support/Myppes
+2016-06-28 12:11:09 : OSX.Genieo : /Users/thomas/Library/Application Support/Cucumberhead
+2016-06-28 12:11:09 : OSX.Genieo : /Library/PrivilegedHelperTools/com.genieoinnovation.macextension.client
+2016-06-28 12:11:09 : OSX.Genieo : /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/my-homepage.xml
+2016-06-28 12:11:09 : OSX.Genieo : /Users/thomas/Library/LaunchAgents/com.Installer.completer.update.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.update.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.update.plist
+2016-06-28 12:11:09 : OSX.Genieo : /Users/thomas/Library/Application Support/keka
+2016-06-28 12:11:09 : OSX.Genieo : /Users/thomas/Library/LaunchAgents/gUpdater.plist
+2016-06-28 12:11:09 : Adware.Vidx/MacVX : /Users/thomas/Library/Safari/Extensions/extension.safariextz,/Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/lmohghbgifbcpoeibfjpbeamdjdjogec,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/l@R5W.com
+2016-06-28 12:11:10 : Adware.Vidx/MacVX : /Users/thomas/Library/Safari/Extensions/extension.safariextz
+2016-06-28 12:11:10 : Adware.Vidx/MacVX : /Users/thomas/Library/Application Support/osxDownloader
+2016-06-28 12:11:10 : Adware.Awesome Screenshot : /Users/thomas/Library/Safari/Extensions/Awesome Screenshot.safariextz
+2016-06-28 12:11:10 : Adware.Crossrider : /Users/thomas/Library/Safari/Extensions/torrenthandler.safariextz,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/TorrentHandler@TorrentHandler.com.xpi
+2016-06-28 12:11:10 : Adware.Crossrider : /Users/thomas/Library/Safari/Extensions/GoPhoto.it V9.0.safariextz,/Users/thomas/Library/Application Support/Google/Chrome/External Extensions/bgnnidmnbdkmhfkjgdnngciimpdgohok.json,/private/var/tmp/freehdsport.crx,/Users/thomas/Library/Application Support/Google/Chrome/External Extensions/ccfjbdjailljfihgkoccfbiljjapiijb.json,/private/var/tmp/gophoto-it.crx,/Users/thomas/Library/Application Support/Google/Chrome/External Extensions/pfmopbbadnfoelckkcmjjeaaegjpjjbk.json,/private/var/tmp/gophotoit.crx,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/gophoto@gophoto.it.xpi
+2016-06-28 12:11:10 : Adware.Crossrider : /Users/thomas/Library/Application Support/Google/Chrome/External Extensions/ccfjbdjailljfihgkoccfbiljjapiijb.json
+2016-06-28 12:11:11 : Adware.Crossrider : /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/llfmanloloafkeemlckaepkpakoeacfo,/Users/thomas/Library/Application Support/Google/Chrome/External Extensions/ccfjbdjailljfihgkoccfbiljjapiijb.json,/private/var/tmp/gophoto-it.crx,/Users/thomas/Library/Application Support/Mozilla/Extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/837a165494f7440b8dc6b1ff2bf06@79bf096c24fc443d8b018a.com
+2016-06-28 12:11:11 : Adware.Crossrider : /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/llfmanloloafkeemlckaepkpakoeacfo
+2016-06-28 12:11:11 : Adware.Crossrider : /Users/thomas/Library/Application Support/Mozilla/Extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/837a165494f7440b8dc6b1ff2bf06@79bf096c24fc443d8b018a.com
+2016-06-28 12:11:11 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/Safari Security
+2016-06-28 12:11:11 : Adware.Crossrider : /Library/cinemapro1-2
+2016-06-28 12:11:11 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/com.flashmall.agent.plist
+2016-06-28 12:11:11 : Adware.Crossrider : /Library/LaunchDaemons/com.cinemapro1-2.daemon.plist
+2016-06-28 12:11:11 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_enabler.plist,/Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_updater.plist
+2016-06-28 12:11:11 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_updater.sh
+2016-06-28 12:11:11 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_enabler.sh
+2016-06-28 12:11:11 : Adware.Crossrider : /Library/LaunchAgents/com.webhelper.uFrGfkbeQ35d.plist
+2016-06-28 12:11:12 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/com.WebTools.oiuqw343sQ9a.helpd.plist,/Users/thomas/Library/LaunchAgents/com.WebTools.oiuqw343sQ9a.plist
+2016-06-28 12:11:12 : Adware.Crossrider : /Users/thomas/Library/Application Support/webhelper
+2016-06-28 12:11:12 : Adware.Crossrider : /Users/thomas/Library/Application Support/WebTools
+2016-06-28 12:11:12 : Adware.Crossrider : /Applications/WebTools.app
+2016-06-28 12:11:12 : Adware.Crossrider : /Users/thomas/Applications/flashmall.app
+2016-06-28 12:11:12 : Adware.Crossrider : /Applications/cinemapro1-2.app
+2016-06-28 12:11:12 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/UpdateDownloader
+2016-06-28 12:11:12 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/com.extensions.updater67619.agent.plist
+2016-06-28 12:11:12 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/com.extensions.updater67619.ver
+2016-06-28 12:11:12 : Adware.Crossrider : /Applications/SoftwareUpdater/
+2016-06-28 12:11:12 : Adware.Crossrider : /Library/LaunchAgents/com.SoftwareUpdater.agent.plist
+2016-06-28 12:11:12 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/com.SoftwareUpdater.agent.plist
+2016-06-28 12:11:12 : Adware.Crossrider : /Applications/SmartShoppy
+2016-06-28 12:11:12 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/com.SmartShoppy.agent.plist
+2016-06-28 12:11:12 : Adware.Crossrider : /Library/LaunchAgents/com.SmartShoppy.agent.plist
+2016-06-28 12:11:12 : Adware.Ask Toolbar : /Users/thomas/Library/Safari/Extensions/searchAskApp_ORJ-M.safariextz
+2016-06-28 12:11:12 : Adware.Ask Toolbar : /Users/thomas/Library/Application Support/Sponsors.framework
+2016-06-28 12:11:13 : Adware.Ask Toolbar : /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/foagdimkhngpckboligookcjcmfnnbdk
+2016-06-28 12:11:13 : Adware.Recipe Hub : /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/foagdimkhngpckboligookcjcmfnnbdk
+2016-06-28 12:11:14 : Adware.Linkury : /Users/thomas/Library/Safari/Extensions/CustomSearchForSafari.safariextz
+2016-06-28 12:11:14 : Adware.OperatorMac : /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/jid1-VdJycrAITglSAg@jetpack.xpi
+2016-06-28 12:11:14 : Adware.OperatorMac : /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/mySearchPlug.xml
+2016-06-28 12:11:15 : Adware.OperatorMac : /Users/thomas/Library/Application Support/mediahm
+2016-06-28 12:11:15 : Adware.GoMovix : /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/jiogeidobnphbnjmnlcjpopgfghcnebf,/Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/nngdfnnnkccipoglcgppagpgjkkbfclo,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/caa1-aDOiCAxFFMOVIX@jetpack.xpi
+2016-06-28 12:11:15 : Adware.Adblock Super : /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/knebimhcckndhiglamoabbnifdkijidd
+2016-06-28 12:11:15 : Adware.AdBeaver : /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/adbeaver@adbeaver.org.xpi
+2016-06-28 12:11:15 : PUP.ShowIP : /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{3e9bb2a7-62ca-4efa-a4e6-f6f6168a652d}.xpi
+2016-06-28 12:11:21 : PUP.Advanced Mac Cleaner : /Applications/Advanced Mac Cleaner.app
+2016-06-28 12:11:21 : PUP.Advanced Mac Cleaner : /Users/thomas/Library/Advanced Mac Cleaner
+2016-06-28 12:11:21 : PUP.Advanced Mac Cleaner : /Users/thomas/Library/Application Support/Advanced Mac Cleaner
+2016-06-28 12:11:21 : PUP.Advanced Mac Cleaner : /Users/thomas/Library/Application Support/amc
+2016-06-28 12:11:21 : PUP.Advanced Mac Cleaner : /Users/thomas/Library/LaunchAgents/com.pcv.hlpramc.plist
+2016-06-28 12:11:22 : OSX.Crisis : /Users/thomas/Library/LaunchAgents/com.apple.FinderExtAvt.plist
+2016-06-28 12:11:22 : OSX.Crisis : /Users/thomas/Library/Preferences/8pHbqThW
+2016-06-28 12:11:22 : OSX.iWorm : /Library/Application Support/JavaW/JavaW
+2016-06-28 12:11:22 : OSX.iWorm : /Library/LaunchDaemons/com.JavaW.plist
+2016-06-28 12:11:22 : OSX.WireLurker : /Library/LaunchDaemons/com.apple.machook_damon.plist
+2016-06-28 12:11:22 : OSX.WireLurker : /Library/LaunchDaemons/com.apple.globalupdate.plist
+2016-06-28 12:11:22 : OSX.WireLurker : /Library/LaunchDaemons/com.apple.itunesupdate.plist
+2016-06-28 12:11:22 : OSX.WireLurker : /Library/LaunchDaemons/com.apple.watchproc.plist
+2016-06-28 12:11:22 : OSX.OceanLotus : /Users/thomas/Library/LaunchAgents/com.google.plugins.plist
+2016-06-28 12:11:22 : OSX.Ransomware.KeRanger : /Applications/Transmission.app
+2016-06-28 12:11:22 : *** Scan time: 0d 00:00:19 ***
+2016-06-28 12:11:22 : ------ Scan Ended ------
+2016-06-28 12:11:29 : Scan complete.
+2016-06-28 12:11:29 : Removing detected threats...
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Safari/Extensions/FlashPlayer11.safariextz
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/FlashPlayer11.safariextz
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/searchme@mybrowserbar.com.xpi,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{84977DE9-1026-4508-B9A7-9116BDAAB098}.xpi,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{A92BC493-FA5B-40a5-AFC8-6672926C9544}.xpi
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/searchme@mybrowserbar.com.xpi
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{84977DE9-1026-4508-B9A7-9116BDAAB098}.xpi
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{A92BC493-FA5B-40a5-AFC8-6672926C9544}.xpi
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{1e75ea56-e618-41ff-86a2-cc6be7bddce3}
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{1e75ea56-e618-41ff-86a2-cc6be7bddce3}
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Safari/Extensions/tKa9FYS.safariextz
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/tKa9FYS.safariextz
+2016-06-28 12:11:29 :  > Removing: /Applications/searchinstStub_3.0.3.0.app
+2016-06-28 12:11:29 : >> Removing file item: /Applications/searchinstStub_3.0.3.0.app
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/cbmjmfcldbpelhknnfjbkobmabafpoed
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/cbmjmfcldbpelhknnfjbkobmabafpoed
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Safari/Extensions/searchExt.safariextz,/Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/cbmjmfcldbpelhknnfjbkobmabafpoed,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{7f0d2b4d-8224-4987-b8c8-311b59909a36},/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{aefeda6a-9a49-47e5-9307-ecbec7d6d879}
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/searchExt.safariextz
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{7f0d2b4d-8224-4987-b8c8-311b59909a36}
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{aefeda6a-9a49-47e5-9307-ecbec7d6d879}
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/'Conduit Customized Web Search'.xml
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/'Conduit Customized Web Search'.xml
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Safari/Extensions/searchExt.safariextz
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/Safari/Extensions/searchExt.safariextz
+2016-06-28 12:11:29 :  > Removing: /Library/Application Support/9ad43503aa2237a3
+2016-06-28 12:11:29 : >> Removing file item: /Library/Application Support/9ad43503aa2237a3
+2016-06-28 12:11:29 :  > Removing: /Library/Application Support/Dares
+2016-06-28 12:11:29 : >> Removing file item: /Library/Application Support/Dares
+2016-06-28 12:11:29 :  > Removing: /Library/Application Support/Dares,/Library/Application Support/Horntail
+2016-06-28 12:11:29 : >> Removing file item: /Library/Application Support/Dares
+2016-06-28 12:11:29 : >> Removing file item: /Library/Application Support/Horntail
+2016-06-28 12:11:29 :  > Removing: /Library/LaunchAgents/com.9ad43503aa2237a3.agent.plist
+2016-06-28 12:11:29 : >> Removing file item: /Library/LaunchAgents/com.9ad43503aa2237a3.agent.plist
+2016-06-28 12:11:29 :  > Removing: /Library/LaunchDaemons/com.9ad43503aa2237a3.daemon.plist,/Library/LaunchDaemons/com.9ad43503aa2237a3.helper.plist
+2016-06-28 12:11:29 : >> Removing file item: /Library/LaunchDaemons/com.9ad43503aa2237a3.daemon.plist
+2016-06-28 12:11:29 : >> Removing file item: /Library/LaunchDaemons/com.9ad43503aa2237a3.helper.plist
+2016-06-28 12:11:29 :  > Removing: /Library/LaunchAgents/com.9ad43503aa2237a3.agent.plist,/Library/LaunchAgents/com.dares.agent.plist
+2016-06-28 12:11:29 : >> Removing file item: /Library/LaunchAgents/com.9ad43503aa2237a3.agent.plist
+2016-06-28 12:11:29 : >> Removing file item: /Library/LaunchAgents/com.dares.agent.plist
+2016-06-28 12:11:29 :  > Removing: /Library/LaunchDaemons/com.9ad43503aa2237a3.daemon.plist,/Library/LaunchDaemons/com.9ad43503aa2237a3.helper.plist,/Library/LaunchDaemons/com.dares.daemon.plist,/Library/LaunchDaemons/com.dares.helper.plist,/Library/LaunchDaemons/com.horntail.daemon.plist,/Library/LaunchDaemons/com.horntail.helper.plist
+2016-06-28 12:11:29 : >> Removing file item: /Library/LaunchDaemons/com.9ad43503aa2237a3.daemon.plist
+2016-06-28 12:11:29 : >> Removing file item: /Library/LaunchDaemons/com.9ad43503aa2237a3.helper.plist
+2016-06-28 12:11:29 : >> Removing file item: /Library/LaunchDaemons/com.dares.daemon.plist
+2016-06-28 12:11:29 : >> Removing file item: /Library/LaunchDaemons/com.dares.helper.plist
+2016-06-28 12:11:29 : >> Removing file item: /Library/LaunchDaemons/com.horntail.daemon.plist
+2016-06-28 12:11:29 : >> Removing file item: /Library/LaunchDaemons/com.horntail.helper.plist
+2016-06-28 12:11:29 :  > Removing: /Library/precommunicate
+2016-06-28 12:11:29 : >> Removing file item: /Library/precommunicate
+2016-06-28 12:11:29 :  > Removing: /Library/LaunchDaemons/com.precommunicate.net-preferences.plist
+2016-06-28 12:11:29 : >> Removing file item: /Library/LaunchDaemons/com.precommunicate.net-preferences.plist
+2016-06-28 12:11:29 :  > Removing: /etc/change_net_settings.sh
+2016-06-28 12:11:29 : >> Removing file item: /etc/change_net_settings.sh
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Safari/Extensions/Omnibar.safariextz
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/Omnibar.safariextz
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Safari/Extensions/Cucumberhead.safariextz,/Users/thomas/Library/Safari/Extensions/InKeepr.safariextz,/Users/thomas/Library/Safari/Extensions/Jakecares.safariextz,/Users/thomas/Library/Safari/Extensions/Listchack.safariextz,/Users/thomas/Library/Safari/Extensions/Omnibar.safariextz
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/Cucumberhead.safariextz
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/InKeepr.safariextz
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/Jakecares.safariextz
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/Listchack.safariextz
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/LaunchAgents/com.installer.completer.download.plist
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.installer.completer.download.plist
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/LaunchAgents/com.installer.completer.update.plist
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.installer.completer.update.plist
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/LaunchAgents/com.installer.completer.ltvbit.plist
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.installer.completer.ltvbit.plist
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/LaunchAgents/Cucumberhead.AppRemoval.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.download.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.ltvbit.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.update.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.download.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.ltvbit.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.update.plist
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Cucumberhead.AppRemoval.plist
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Cucumberhead.download.plist
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Cucumberhead.ltvbit.plist
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Cucumberhead.update.plist
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Leperdvil.download.plist
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Leperdvil.ltvbit.plist
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Leperdvil.update.plist
+2016-06-28 12:11:29 :  > Removing: /Library/LaunchAgents/com.genieoinnovation.macextension.plist
+2016-06-28 12:11:29 : >> Removing file item: /Library/LaunchAgents/com.genieoinnovation.macextension.plist
+2016-06-28 12:11:29 :  > Removing: /Library/LaunchDaemons/com.genieoinnovation.macextension.client.plist
+2016-06-28 12:11:29 : >> Removing file item: /Library/LaunchDaemons/com.genieoinnovation.macextension.client.plist
+2016-06-28 12:11:29 :  > Removing: /Applications/Genieo.app
+2016-06-28 12:11:29 : >> Removing file item: /Applications/Genieo.app
+2016-06-28 12:11:29 :  > Removing: /Applications/JakeCares
+2016-06-28 12:11:29 : >> Removing file item: /Applications/JakeCares
+2016-06-28 12:11:29 :  > Removing: /Applications/Cucumberhead
+2016-06-28 12:11:29 : >> Removing file item: /Applications/Cucumberhead
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/Epolife
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/Application Support/Epolife
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/Myppes
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/Application Support/Myppes
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/Cucumberhead
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/Application Support/Cucumberhead
+2016-06-28 12:11:29 :  > Removing: /Library/PrivilegedHelperTools/com.genieoinnovation.macextension.client
+2016-06-28 12:11:29 : >> Removing file item: /Library/PrivilegedHelperTools/com.genieoinnovation.macextension.client
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/my-homepage.xml
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/my-homepage.xml
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/LaunchAgents/com.Installer.completer.update.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.update.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.update.plist
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.Installer.completer.update.plist
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Cucumberhead.update.plist
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Leperdvil.update.plist
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/keka
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/Application Support/keka
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/LaunchAgents/gUpdater.plist
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/gUpdater.plist
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Safari/Extensions/extension.safariextz,/Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/lmohghbgifbcpoeibfjpbeamdjdjogec,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/l@R5W.com
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/extension.safariextz
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/lmohghbgifbcpoeibfjpbeamdjdjogec
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/l@R5W.com
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Safari/Extensions/extension.safariextz
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/Safari/Extensions/extension.safariextz
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/osxDownloader
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/Application Support/osxDownloader
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Safari/Extensions/Awesome Screenshot.safariextz
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/Awesome Screenshot.safariextz
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Safari/Extensions/torrenthandler.safariextz,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/TorrentHandler@TorrentHandler.com.xpi
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/torrenthandler.safariextz
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/TorrentHandler@TorrentHandler.com.xpi
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Safari/Extensions/GoPhoto.it V9.0.safariextz,/Users/thomas/Library/Application Support/Google/Chrome/External Extensions/bgnnidmnbdkmhfkjgdnngciimpdgohok.json,/private/var/tmp/freehdsport.crx,/Users/thomas/Library/Application Support/Google/Chrome/External Extensions/ccfjbdjailljfihgkoccfbiljjapiijb.json,/private/var/tmp/gophoto-it.crx,/Users/thomas/Library/Application Support/Google/Chrome/External Extensions/pfmopbbadnfoelckkcmjjeaaegjpjjbk.json,/private/var/tmp/gophotoit.crx,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/gophoto@gophoto.it.xpi
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/GoPhoto.it V9.0.safariextz
+2016-06-28 12:11:29 : >> Removing extension item: /private/var/tmp/freehdsport.crx
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/External Extensions/bgnnidmnbdkmhfkjgdnngciimpdgohok.json
+2016-06-28 12:11:29 : >> Removing extension item: /private/var/tmp/gophoto-it.crx
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/External Extensions/ccfjbdjailljfihgkoccfbiljjapiijb.json
+2016-06-28 12:11:29 : >> Removing extension item: /private/var/tmp/gophotoit.crx
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/External Extensions/pfmopbbadnfoelckkcmjjeaaegjpjjbk.json
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/gophoto@gophoto.it.xpi
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/Google/Chrome/External Extensions/ccfjbdjailljfihgkoccfbiljjapiijb.json
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/Application Support/Google/Chrome/External Extensions/ccfjbdjailljfihgkoccfbiljjapiijb.json
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/llfmanloloafkeemlckaepkpakoeacfo,/Users/thomas/Library/Application Support/Google/Chrome/External Extensions/ccfjbdjailljfihgkoccfbiljjapiijb.json,/private/var/tmp/gophoto-it.crx,/Users/thomas/Library/Application Support/Mozilla/Extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/837a165494f7440b8dc6b1ff2bf06@79bf096c24fc443d8b018a.com
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/llfmanloloafkeemlckaepkpakoeacfo
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Application Support/Mozilla/Extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/837a165494f7440b8dc6b1ff2bf06@79bf096c24fc443d8b018a.com
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/llfmanloloafkeemlckaepkpakoeacfo
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/Mozilla/Extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/837a165494f7440b8dc6b1ff2bf06@79bf096c24fc443d8b018a.com
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/LaunchAgents/Safari Security
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Safari Security
+2016-06-28 12:11:29 :  > Removing: /Library/cinemapro1-2
+2016-06-28 12:11:29 : >> Removing file item: /Library/cinemapro1-2
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/LaunchAgents/com.flashmall.agent.plist
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.flashmall.agent.plist
+2016-06-28 12:11:29 :  > Removing: /Library/LaunchDaemons/com.cinemapro1-2.daemon.plist
+2016-06-28 12:11:29 : >> Removing file item: /Library/LaunchDaemons/com.cinemapro1-2.daemon.plist
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_enabler.plist,/Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_updater.plist
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_enabler.plist
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_updater.plist
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_updater.sh
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_updater.sh
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_enabler.sh
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_enabler.sh
+2016-06-28 12:11:29 :  > Removing: /Library/LaunchAgents/com.webhelper.uFrGfkbeQ35d.plist
+2016-06-28 12:11:29 : >> Removing file item: /Library/LaunchAgents/com.webhelper.uFrGfkbeQ35d.plist
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/LaunchAgents/com.WebTools.oiuqw343sQ9a.helpd.plist,/Users/thomas/Library/LaunchAgents/com.WebTools.oiuqw343sQ9a.plist
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.WebTools.oiuqw343sQ9a.helpd.plist
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.WebTools.oiuqw343sQ9a.plist
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/webhelper
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/Application Support/webhelper
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/WebTools
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/Application Support/WebTools
+2016-06-28 12:11:29 :  > Removing: /Applications/WebTools.app
+2016-06-28 12:11:29 : >> Removing file item: /Applications/WebTools.app
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Applications/flashmall.app
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Applications/flashmall.app
+2016-06-28 12:11:29 :  > Removing: /Applications/cinemapro1-2.app
+2016-06-28 12:11:29 : >> Removing file item: /Applications/cinemapro1-2.app
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/LaunchAgents/UpdateDownloader
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/UpdateDownloader
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/LaunchAgents/com.extensions.updater67619.agent.plist
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.extensions.updater67619.agent.plist
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/LaunchAgents/com.extensions.updater67619.ver
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.extensions.updater67619.ver
+2016-06-28 12:11:29 :  > Removing: /Applications/SoftwareUpdater/
+2016-06-28 12:11:29 : >> Removing file item: /Applications/SoftwareUpdater/
+2016-06-28 12:11:29 :  > Removing: /Library/LaunchAgents/com.SoftwareUpdater.agent.plist
+2016-06-28 12:11:29 : >> Removing file item: /Library/LaunchAgents/com.SoftwareUpdater.agent.plist
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/LaunchAgents/com.SoftwareUpdater.agent.plist
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.SoftwareUpdater.agent.plist
+2016-06-28 12:11:29 :  > Removing: /Applications/SmartShoppy
+2016-06-28 12:11:29 : >> Removing file item: /Applications/SmartShoppy
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/LaunchAgents/com.SmartShoppy.agent.plist
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.SmartShoppy.agent.plist
+2016-06-28 12:11:29 :  > Removing: /Library/LaunchAgents/com.SmartShoppy.agent.plist
+2016-06-28 12:11:29 : >> Removing file item: /Library/LaunchAgents/com.SmartShoppy.agent.plist
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Safari/Extensions/searchAskApp_ORJ-M.safariextz
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/searchAskApp_ORJ-M.safariextz
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/Sponsors.framework
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/Application Support/Sponsors.framework
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/foagdimkhngpckboligookcjcmfnnbdk
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/foagdimkhngpckboligookcjcmfnnbdk
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/foagdimkhngpckboligookcjcmfnnbdk
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Safari/Extensions/CustomSearchForSafari.safariextz
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/CustomSearchForSafari.safariextz
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/jid1-VdJycrAITglSAg@jetpack.xpi
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/jid1-VdJycrAITglSAg@jetpack.xpi
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/mySearchPlug.xml
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/mySearchPlug.xml
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/mediahm
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/Application Support/mediahm
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/jiogeidobnphbnjmnlcjpopgfghcnebf,/Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/nngdfnnnkccipoglcgppagpgjkkbfclo,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/caa1-aDOiCAxFFMOVIX@jetpack.xpi
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/jiogeidobnphbnjmnlcjpopgfghcnebf
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/nngdfnnnkccipoglcgppagpgjkkbfclo
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/caa1-aDOiCAxFFMOVIX@jetpack.xpi
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/knebimhcckndhiglamoabbnifdkijidd
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/knebimhcckndhiglamoabbnifdkijidd
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/adbeaver@adbeaver.org.xpi
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/adbeaver@adbeaver.org.xpi
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{3e9bb2a7-62ca-4efa-a4e6-f6f6168a652d}.xpi
+2016-06-28 12:11:29 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{3e9bb2a7-62ca-4efa-a4e6-f6f6168a652d}.xpi
+2016-06-28 12:11:29 :  > Removing: /Applications/Advanced Mac Cleaner.app
+2016-06-28 12:11:29 : >> Removing file item: /Applications/Advanced Mac Cleaner.app
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Advanced Mac Cleaner
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/Advanced Mac Cleaner
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/Advanced Mac Cleaner
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/Application Support/Advanced Mac Cleaner
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Application Support/amc
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/Application Support/amc
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/LaunchAgents/com.pcv.hlpramc.plist
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.pcv.hlpramc.plist
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/LaunchAgents/com.apple.FinderExtAvt.plist
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.apple.FinderExtAvt.plist
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/Preferences/8pHbqThW
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/Preferences/8pHbqThW
+2016-06-28 12:11:29 :  > Removing: /Library/Application Support/JavaW/JavaW
+2016-06-28 12:11:29 : >> Removing file item: /Library/Application Support/JavaW/JavaW
+2016-06-28 12:11:29 :  > Removing: /Library/LaunchDaemons/com.JavaW.plist
+2016-06-28 12:11:29 : >> Removing file item: /Library/LaunchDaemons/com.JavaW.plist
+2016-06-28 12:11:29 :  > Removing: /Library/LaunchDaemons/com.apple.machook_damon.plist
+2016-06-28 12:11:29 : >> Removing file item: /Library/LaunchDaemons/com.apple.machook_damon.plist
+2016-06-28 12:11:29 :  > Removing: /Library/LaunchDaemons/com.apple.globalupdate.plist
+2016-06-28 12:11:29 : >> Removing file item: /Library/LaunchDaemons/com.apple.globalupdate.plist
+2016-06-28 12:11:29 :  > Removing: /Library/LaunchDaemons/com.apple.itunesupdate.plist
+2016-06-28 12:11:29 : >> Removing file item: /Library/LaunchDaemons/com.apple.itunesupdate.plist
+2016-06-28 12:11:29 :  > Removing: /Library/LaunchDaemons/com.apple.watchproc.plist
+2016-06-28 12:11:29 : >> Removing file item: /Library/LaunchDaemons/com.apple.watchproc.plist
+2016-06-28 12:11:29 :  > Removing: /Users/thomas/Library/LaunchAgents/com.google.plugins.plist
+2016-06-28 12:11:29 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.google.plugins.plist
+2016-06-28 12:11:29 :  > Removing: /Applications/Transmission.app
+2016-06-28 12:11:29 : >> Removing file item: /Applications/Transmission.app
+2016-06-28 12:11:29 : Threat removal complete.
+2016-06-28 12:11:29 : ===== User declined restart =====
+2016-06-28 13:04:29 :  
+2016-06-28 13:04:29 : ----- Scan Started -----
+2016-06-28 13:04:29 : Scanning with signatures version 87 (2016-6-27)
+2016-06-28 13:04:29 : Adware.ClickAgent : /Users/thomas/Library/Safari/Extensions/FlashPlayer11.safariextz
+2016-06-28 13:04:29 : Adware.Spigot : /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/searchme@mybrowserbar.com.xpi,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{84977DE9-1026-4508-B9A7-9116BDAAB098}.xpi,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{A92BC493-FA5B-40a5-AFC8-6672926C9544}.xpi
+2016-06-28 13:04:29 : Adware.IronCore : /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{1e75ea56-e618-41ff-86a2-cc6be7bddce3}
+2016-06-28 13:04:32 : Adware.IronCore : /Users/thomas/Library/Safari/Extensions/tKa9FYS.safariextz
+2016-06-28 13:04:32 : Adware.IronCore : /Applications/searchinstStub_3.0.3.0.app
+2016-06-28 13:04:33 : Adware.Conduit : /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/cbmjmfcldbpelhknnfjbkobmabafpoed
+2016-06-28 13:04:33 : Adware.Conduit : /Users/thomas/Library/Safari/Extensions/searchExt.safariextz,/Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/cbmjmfcldbpelhknnfjbkobmabafpoed,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{7f0d2b4d-8224-4987-b8c8-311b59909a36},/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{aefeda6a-9a49-47e5-9307-ecbec7d6d879}
+2016-06-28 13:04:33 : Adware.Conduit : /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/'Conduit Customized Web Search'.xml
+2016-06-28 13:04:33 : Adware.Conduit : /Users/thomas/Library/Safari/Extensions/searchExt.safariextz
+2016-06-28 13:04:33 : Adware.VSearch : /Library/Application Support/9ad43503aa2237a3
+2016-06-28 13:04:33 : Adware.VSearch : /Library/Application Support/Dares
+2016-06-28 13:04:33 : Adware.VSearch : /Library/Application Support/Dares,/Library/Application Support/Horntail
+2016-06-28 13:04:33 : Adware.VSearch : /Library/LaunchAgents/com.9ad43503aa2237a3.agent.plist
+2016-06-28 13:04:33 : Adware.VSearch : /Library/LaunchDaemons/com.9ad43503aa2237a3.daemon.plist,/Library/LaunchDaemons/com.9ad43503aa2237a3.helper.plist
+2016-06-28 13:04:33 : Adware.VSearch : /Library/LaunchAgents/com.9ad43503aa2237a3.agent.plist,/Library/LaunchAgents/com.dares.agent.plist
+2016-06-28 13:04:33 : Adware.VSearch : /Library/LaunchDaemons/com.9ad43503aa2237a3.daemon.plist,/Library/LaunchDaemons/com.9ad43503aa2237a3.helper.plist,/Library/LaunchDaemons/com.dares.daemon.plist,/Library/LaunchDaemons/com.dares.helper.plist,/Library/LaunchDaemons/com.horntail.daemon.plist,/Library/LaunchDaemons/com.horntail.helper.plist
+2016-06-28 13:04:34 : Adware.VSearch : /Library/precommunicate
+2016-06-28 13:04:34 : Adware.VSearch : /Library/LaunchDaemons/com.precommunicate.net-preferences.plist
+2016-06-28 13:04:34 : Adware.VSearch : /etc/change_net_settings.sh
+2016-06-28 13:04:35 : OSX.Genieo : /Users/thomas/Library/Safari/Extensions/Omnibar.safariextz
+2016-06-28 13:04:35 : OSX.Genieo : /Users/thomas/Library/Safari/Extensions/Cucumberhead.safariextz,/Users/thomas/Library/Safari/Extensions/InKeepr.safariextz,/Users/thomas/Library/Safari/Extensions/Jakecares.safariextz,/Users/thomas/Library/Safari/Extensions/Listchack.safariextz,/Users/thomas/Library/Safari/Extensions/Omnibar.safariextz
+2016-06-28 13:04:35 : OSX.Genieo : /Users/thomas/Library/LaunchAgents/com.installer.completer.download.plist
+2016-06-28 13:04:35 : OSX.Genieo : /Users/thomas/Library/LaunchAgents/com.installer.completer.update.plist
+2016-06-28 13:04:35 : OSX.Genieo : /Users/thomas/Library/LaunchAgents/com.installer.completer.ltvbit.plist
+2016-06-28 13:04:35 : OSX.Genieo : /Users/thomas/Library/LaunchAgents/Cucumberhead.AppRemoval.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.download.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.ltvbit.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.update.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.download.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.ltvbit.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.update.plist
+2016-06-28 13:04:35 : OSX.Genieo : /Library/LaunchAgents/com.genieoinnovation.macextension.plist
+2016-06-28 13:04:35 : OSX.Genieo : /Library/LaunchDaemons/com.genieoinnovation.macextension.client.plist
+2016-06-28 13:04:35 : OSX.Genieo : /Applications/Genieo.app
+2016-06-28 13:04:35 : OSX.Genieo : /Applications/JakeCares
+2016-06-28 13:04:35 : OSX.Genieo : /Applications/Cucumberhead
+2016-06-28 13:04:35 : OSX.Genieo : /Users/thomas/Library/Application Support/Epolife
+2016-06-28 13:04:35 : OSX.Genieo : /Users/thomas/Library/Application Support/Myppes
+2016-06-28 13:04:35 : OSX.Genieo : /Users/thomas/Library/Application Support/Cucumberhead
+2016-06-28 13:04:35 : OSX.Genieo : /Library/PrivilegedHelperTools/com.genieoinnovation.macextension.client
+2016-06-28 13:04:35 : OSX.Genieo : /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/my-homepage.xml
+2016-06-28 13:04:35 : OSX.Genieo : /Users/thomas/Library/LaunchAgents/com.Installer.completer.update.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.update.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.update.plist
+2016-06-28 13:04:35 : OSX.Genieo : /Users/thomas/Library/Application Support/keka
+2016-06-28 13:04:35 : OSX.Genieo : /Users/thomas/Library/LaunchAgents/gUpdater.plist
+2016-06-28 13:04:35 : Adware.Vidx/MacVX : /Users/thomas/Library/Safari/Extensions/extension.safariextz,/Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/lmohghbgifbcpoeibfjpbeamdjdjogec,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/l@R5W.com
+2016-06-28 13:04:36 : Adware.Vidx/MacVX : /Users/thomas/Library/Safari/Extensions/extension.safariextz
+2016-06-28 13:04:36 : Adware.Vidx/MacVX : /Users/thomas/Library/Application Support/osxDownloader
+2016-06-28 13:04:36 : Adware.Awesome Screenshot : /Users/thomas/Library/Safari/Extensions/Awesome Screenshot.safariextz
+2016-06-28 13:04:36 : Adware.Crossrider : /Users/thomas/Library/Safari/Extensions/torrenthandler.safariextz,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/TorrentHandler@TorrentHandler.com.xpi
+2016-06-28 13:04:36 : Adware.Crossrider : /Users/thomas/Library/Safari/Extensions/GoPhoto.it V9.0.safariextz,/Users/thomas/Library/Application Support/Google/Chrome/External Extensions/bgnnidmnbdkmhfkjgdnngciimpdgohok.json,/private/var/tmp/freehdsport.crx,/Users/thomas/Library/Application Support/Google/Chrome/External Extensions/ccfjbdjailljfihgkoccfbiljjapiijb.json,/private/var/tmp/gophoto-it.crx,/Users/thomas/Library/Application Support/Google/Chrome/External Extensions/pfmopbbadnfoelckkcmjjeaaegjpjjbk.json,/private/var/tmp/gophotoit.crx,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/gophoto@gophoto.it.xpi
+2016-06-28 13:04:36 : Adware.Crossrider : /Users/thomas/Library/Application Support/Google/Chrome/External Extensions/ccfjbdjailljfihgkoccfbiljjapiijb.json
+2016-06-28 13:04:37 : Adware.Crossrider : /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/llfmanloloafkeemlckaepkpakoeacfo,/Users/thomas/Library/Application Support/Google/Chrome/External Extensions/ccfjbdjailljfihgkoccfbiljjapiijb.json,/private/var/tmp/gophoto-it.crx,/Users/thomas/Library/Application Support/Mozilla/Extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/837a165494f7440b8dc6b1ff2bf06@79bf096c24fc443d8b018a.com
+2016-06-28 13:04:38 : Adware.Crossrider : /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/llfmanloloafkeemlckaepkpakoeacfo
+2016-06-28 13:04:38 : Adware.Crossrider : /Users/thomas/Library/Application Support/Mozilla/Extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/837a165494f7440b8dc6b1ff2bf06@79bf096c24fc443d8b018a.com
+2016-06-28 13:04:38 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/Safari Security
+2016-06-28 13:04:38 : Adware.Crossrider : /Library/cinemapro1-2
+2016-06-28 13:04:38 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/com.flashmall.agent.plist
+2016-06-28 13:04:38 : Adware.Crossrider : /Library/LaunchDaemons/com.cinemapro1-2.daemon.plist
+2016-06-28 13:04:38 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_enabler.plist,/Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_updater.plist
+2016-06-28 13:04:38 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_updater.sh
+2016-06-28 13:04:38 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_enabler.sh
+2016-06-28 13:04:38 : Adware.Crossrider : /Library/LaunchAgents/com.webhelper.uFrGfkbeQ35d.plist
+2016-06-28 13:04:38 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/com.WebTools.oiuqw343sQ9a.helpd.plist,/Users/thomas/Library/LaunchAgents/com.WebTools.oiuqw343sQ9a.plist
+2016-06-28 13:04:38 : Adware.Crossrider : /Users/thomas/Library/Application Support/webhelper
+2016-06-28 13:04:38 : Adware.Crossrider : /Users/thomas/Library/Application Support/WebTools
+2016-06-28 13:04:38 : Adware.Crossrider : /Applications/WebTools.app
+2016-06-28 13:04:38 : Adware.Crossrider : /Users/thomas/Applications/flashmall.app
+2016-06-28 13:04:38 : Adware.Crossrider : /Applications/cinemapro1-2.app
+2016-06-28 13:04:38 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/UpdateDownloader
+2016-06-28 13:04:38 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/com.extensions.updater67619.agent.plist
+2016-06-28 13:04:38 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/com.extensions.updater67619.ver
+2016-06-28 13:04:38 : Adware.Crossrider : /Applications/SoftwareUpdater/
+2016-06-28 13:04:38 : Adware.Crossrider : /Library/LaunchAgents/com.SoftwareUpdater.agent.plist
+2016-06-28 13:04:38 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/com.SoftwareUpdater.agent.plist
+2016-06-28 13:04:38 : Adware.Crossrider : /Applications/SmartShoppy
+2016-06-28 13:04:38 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/com.SmartShoppy.agent.plist
+2016-06-28 13:04:38 : Adware.Crossrider : /Library/LaunchAgents/com.SmartShoppy.agent.plist
+2016-06-28 13:04:38 : Adware.Ask Toolbar : /Users/thomas/Library/Safari/Extensions/searchAskApp_ORJ-M.safariextz
+2016-06-28 13:04:38 : Adware.Ask Toolbar : /Users/thomas/Library/Application Support/Sponsors.framework
+2016-06-28 13:04:39 : Adware.Ask Toolbar : /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/foagdimkhngpckboligookcjcmfnnbdk
+2016-06-28 13:04:40 : Adware.Recipe Hub : /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/foagdimkhngpckboligookcjcmfnnbdk
+2016-06-28 13:04:40 : Adware.Linkury : /Users/thomas/Library/Safari/Extensions/CustomSearchForSafari.safariextz
+2016-06-28 13:04:41 : Adware.OperatorMac : /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/jid1-VdJycrAITglSAg@jetpack.xpi
+2016-06-28 13:04:41 : Adware.OperatorMac : /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/mySearchPlug.xml
+2016-06-28 13:04:41 : Adware.OperatorMac : /Users/thomas/Library/Application Support/mediahm
+2016-06-28 13:04:41 : Adware.GoMovix : /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/jiogeidobnphbnjmnlcjpopgfghcnebf,/Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/nngdfnnnkccipoglcgppagpgjkkbfclo,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/caa1-aDOiCAxFFMOVIX@jetpack.xpi
+2016-06-28 13:04:41 : Adware.Adblock Super : /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/knebimhcckndhiglamoabbnifdkijidd
+2016-06-28 13:04:41 : Adware.AdBeaver : /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/adbeaver@adbeaver.org.xpi
+2016-06-28 13:04:41 : PUP.ShowIP : /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{3e9bb2a7-62ca-4efa-a4e6-f6f6168a652d}.xpi
+2016-06-28 13:04:48 : PUP.Advanced Mac Cleaner : /Applications/Advanced Mac Cleaner.app
+2016-06-28 13:04:48 : PUP.Advanced Mac Cleaner : /Users/thomas/Library/Advanced Mac Cleaner
+2016-06-28 13:04:48 : PUP.Advanced Mac Cleaner : /Users/thomas/Library/Application Support/Advanced Mac Cleaner
+2016-06-28 13:04:48 : PUP.Advanced Mac Cleaner : /Users/thomas/Library/Application Support/amc
+2016-06-28 13:04:48 : PUP.Advanced Mac Cleaner : /Users/thomas/Library/LaunchAgents/com.pcv.hlpramc.plist
+2016-06-28 13:04:48 : OSX.Crisis : /Users/thomas/Library/LaunchAgents/com.apple.FinderExtAvt.plist
+2016-06-28 13:04:48 : OSX.Crisis : /Users/thomas/Library/Preferences/8pHbqThW
+2016-06-28 13:04:48 : OSX.iWorm : /Library/Application Support/JavaW/JavaW
+2016-06-28 13:04:48 : OSX.iWorm : /Library/LaunchDaemons/com.JavaW.plist
+2016-06-28 13:04:48 : OSX.WireLurker : /Library/LaunchDaemons/com.apple.machook_damon.plist
+2016-06-28 13:04:48 : OSX.WireLurker : /Library/LaunchDaemons/com.apple.globalupdate.plist
+2016-06-28 13:04:48 : OSX.WireLurker : /Library/LaunchDaemons/com.apple.itunesupdate.plist
+2016-06-28 13:04:48 : OSX.WireLurker : /Library/LaunchDaemons/com.apple.watchproc.plist
+2016-06-28 13:04:48 : OSX.OceanLotus : /Users/thomas/Library/LaunchAgents/com.google.plugins.plist
+2016-06-28 13:04:49 : OSX.Ransomware.KeRanger : /Applications/Transmission.app
+2016-06-28 13:04:49 : *** Scan time: 0d 00:00:20 ***
+2016-06-28 13:04:49 : ------ Scan Ended ------
+2016-06-28 13:04:55 : Scan complete.
+2016-06-28 13:04:55 : Removing detected threats...
+2016-06-28 13:04:55 :  > Removing: /Users/thomas/Library/Safari/Extensions/FlashPlayer11.safariextz
+2016-06-28 13:04:55 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/FlashPlayer11.safariextz
+2016-06-28 13:04:55 :  > Removing: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/searchme@mybrowserbar.com.xpi,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{84977DE9-1026-4508-B9A7-9116BDAAB098}.xpi,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{A92BC493-FA5B-40a5-AFC8-6672926C9544}.xpi
+2016-06-28 13:04:55 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/searchme@mybrowserbar.com.xpi
+2016-06-28 13:04:55 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{84977DE9-1026-4508-B9A7-9116BDAAB098}.xpi
+2016-06-28 13:04:55 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{A92BC493-FA5B-40a5-AFC8-6672926C9544}.xpi
+2016-06-28 13:04:55 :  > Removing: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{1e75ea56-e618-41ff-86a2-cc6be7bddce3}
+2016-06-28 13:04:55 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{1e75ea56-e618-41ff-86a2-cc6be7bddce3}
+2016-06-28 13:04:55 :  > Removing: /Users/thomas/Library/Safari/Extensions/tKa9FYS.safariextz
+2016-06-28 13:04:55 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/tKa9FYS.safariextz
+2016-06-28 13:04:55 :  > Removing: /Applications/searchinstStub_3.0.3.0.app
+2016-06-28 13:04:55 : >> Removing file item: /Applications/searchinstStub_3.0.3.0.app
+2016-06-28 13:04:55 :  > Removing: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/cbmjmfcldbpelhknnfjbkobmabafpoed
+2016-06-28 13:04:55 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/cbmjmfcldbpelhknnfjbkobmabafpoed
+2016-06-28 13:04:55 :  > Removing: /Users/thomas/Library/Safari/Extensions/searchExt.safariextz,/Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/cbmjmfcldbpelhknnfjbkobmabafpoed,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{7f0d2b4d-8224-4987-b8c8-311b59909a36},/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{aefeda6a-9a49-47e5-9307-ecbec7d6d879}
+2016-06-28 13:04:55 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/searchExt.safariextz
+2016-06-28 13:04:55 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{7f0d2b4d-8224-4987-b8c8-311b59909a36}
+2016-06-28 13:04:55 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{aefeda6a-9a49-47e5-9307-ecbec7d6d879}
+2016-06-28 13:04:55 :  > Removing: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/'Conduit Customized Web Search'.xml
+2016-06-28 13:04:55 : >> Removing file item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/'Conduit Customized Web Search'.xml
+2016-06-28 13:04:55 :  > Removing: /Users/thomas/Library/Safari/Extensions/searchExt.safariextz
+2016-06-28 13:04:55 : >> Removing file item: /Users/thomas/Library/Safari/Extensions/searchExt.safariextz
+2016-06-28 13:04:55 :  > Removing: /Library/Application Support/9ad43503aa2237a3
+2016-06-28 13:04:55 : >> Removing file item: /Library/Application Support/9ad43503aa2237a3
+2016-06-28 13:04:55 :  > Removing: /Library/Application Support/Dares
+2016-06-28 13:04:55 : >> Removing file item: /Library/Application Support/Dares
+2016-06-28 13:04:55 :  > Removing: /Library/Application Support/Dares,/Library/Application Support/Horntail
+2016-06-28 13:04:55 : >> Removing file item: /Library/Application Support/Dares
+2016-06-28 13:04:55 : >> Removing file item: /Library/Application Support/Horntail
+2016-06-28 13:04:55 :  > Removing: /Library/LaunchAgents/com.9ad43503aa2237a3.agent.plist
+2016-06-28 13:04:55 : >> Removing file item: /Library/LaunchAgents/com.9ad43503aa2237a3.agent.plist
+2016-06-28 13:04:55 :  > Removing: /Library/LaunchDaemons/com.9ad43503aa2237a3.daemon.plist,/Library/LaunchDaemons/com.9ad43503aa2237a3.helper.plist
+2016-06-28 13:04:55 : >> Removing file item: /Library/LaunchDaemons/com.9ad43503aa2237a3.daemon.plist
+2016-06-28 13:04:55 : >> Removing file item: /Library/LaunchDaemons/com.9ad43503aa2237a3.helper.plist
+2016-06-28 13:04:55 :  > Removing: /Library/LaunchAgents/com.9ad43503aa2237a3.agent.plist,/Library/LaunchAgents/com.dares.agent.plist
+2016-06-28 13:04:55 : >> Removing file item: /Library/LaunchAgents/com.9ad43503aa2237a3.agent.plist
+2016-06-28 13:04:55 : >> Removing file item: /Library/LaunchAgents/com.dares.agent.plist
+2016-06-28 13:04:55 :  > Removing: /Library/LaunchDaemons/com.9ad43503aa2237a3.daemon.plist,/Library/LaunchDaemons/com.9ad43503aa2237a3.helper.plist,/Library/LaunchDaemons/com.dares.daemon.plist,/Library/LaunchDaemons/com.dares.helper.plist,/Library/LaunchDaemons/com.horntail.daemon.plist,/Library/LaunchDaemons/com.horntail.helper.plist
+2016-06-28 13:04:55 : >> Removing file item: /Library/LaunchDaemons/com.9ad43503aa2237a3.daemon.plist
+2016-06-28 13:04:55 : >> Removing file item: /Library/LaunchDaemons/com.9ad43503aa2237a3.helper.plist
+2016-06-28 13:04:55 : >> Removing file item: /Library/LaunchDaemons/com.dares.daemon.plist
+2016-06-28 13:04:55 : >> Removing file item: /Library/LaunchDaemons/com.dares.helper.plist
+2016-06-28 13:04:55 : >> Removing file item: /Library/LaunchDaemons/com.horntail.daemon.plist
+2016-06-28 13:04:55 : >> Removing file item: /Library/LaunchDaemons/com.horntail.helper.plist
+2016-06-28 13:04:55 :  > Removing: /Library/precommunicate
+2016-06-28 13:04:55 : >> Removing file item: /Library/precommunicate
+2016-06-28 13:04:55 :  > Removing: /Library/LaunchDaemons/com.precommunicate.net-preferences.plist
+2016-06-28 13:04:55 : >> Removing file item: /Library/LaunchDaemons/com.precommunicate.net-preferences.plist
+2016-06-28 13:04:55 :  > Removing: /etc/change_net_settings.sh
+2016-06-28 13:04:55 : >> Removing file item: /etc/change_net_settings.sh
+2016-06-28 13:04:55 :  > Removing: /Users/thomas/Library/Safari/Extensions/Omnibar.safariextz
+2016-06-28 13:04:55 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/Omnibar.safariextz
+2016-06-28 13:04:55 :  > Removing: /Users/thomas/Library/Safari/Extensions/Cucumberhead.safariextz,/Users/thomas/Library/Safari/Extensions/InKeepr.safariextz,/Users/thomas/Library/Safari/Extensions/Jakecares.safariextz,/Users/thomas/Library/Safari/Extensions/Listchack.safariextz,/Users/thomas/Library/Safari/Extensions/Omnibar.safariextz
+2016-06-28 13:04:55 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/Cucumberhead.safariextz
+2016-06-28 13:04:55 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/InKeepr.safariextz
+2016-06-28 13:04:55 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/Jakecares.safariextz
+2016-06-28 13:04:55 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/Listchack.safariextz
+2016-06-28 13:04:55 :  > Removing: /Users/thomas/Library/LaunchAgents/com.installer.completer.download.plist
+2016-06-28 13:04:55 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.installer.completer.download.plist
+2016-06-28 13:04:55 :  > Removing: /Users/thomas/Library/LaunchAgents/com.installer.completer.update.plist
+2016-06-28 13:04:55 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.installer.completer.update.plist
+2016-06-28 13:04:55 :  > Removing: /Users/thomas/Library/LaunchAgents/com.installer.completer.ltvbit.plist
+2016-06-28 13:04:55 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.installer.completer.ltvbit.plist
+2016-06-28 13:04:55 :  > Removing: /Users/thomas/Library/LaunchAgents/Cucumberhead.AppRemoval.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.download.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.ltvbit.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.update.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.download.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.ltvbit.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.update.plist
+2016-06-28 13:04:55 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Cucumberhead.AppRemoval.plist
+2016-06-28 13:04:55 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Cucumberhead.download.plist
+2016-06-28 13:04:55 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Cucumberhead.ltvbit.plist
+2016-06-28 13:04:55 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Cucumberhead.update.plist
+2016-06-28 13:04:55 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Leperdvil.download.plist
+2016-06-28 13:04:55 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Leperdvil.ltvbit.plist
+2016-06-28 13:04:55 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Leperdvil.update.plist
+2016-06-28 13:04:55 :  > Removing: /Library/LaunchAgents/com.genieoinnovation.macextension.plist
+2016-06-28 13:04:55 : >> Removing file item: /Library/LaunchAgents/com.genieoinnovation.macextension.plist
+2016-06-28 13:04:55 :  > Removing: /Library/LaunchDaemons/com.genieoinnovation.macextension.client.plist
+2016-06-28 13:04:55 : >> Removing file item: /Library/LaunchDaemons/com.genieoinnovation.macextension.client.plist
+2016-06-28 13:04:55 :  > Removing: /Applications/Genieo.app
+2016-06-28 13:04:55 : >> Removing file item: /Applications/Genieo.app
+2016-06-28 13:04:55 :  > Removing: /Applications/JakeCares
+2016-06-28 13:04:55 : >> Removing file item: /Applications/JakeCares
+2016-06-28 13:04:55 :  > Removing: /Applications/Cucumberhead
+2016-06-28 13:04:55 : >> Removing file item: /Applications/Cucumberhead
+2016-06-28 13:04:55 :  > Removing: /Users/thomas/Library/Application Support/Epolife
+2016-06-28 13:04:55 : >> Removing file item: /Users/thomas/Library/Application Support/Epolife
+2016-06-28 13:04:55 :  > Removing: /Users/thomas/Library/Application Support/Myppes
+2016-06-28 13:04:55 : >> Removing file item: /Users/thomas/Library/Application Support/Myppes
+2016-06-28 13:04:55 :  > Removing: /Users/thomas/Library/Application Support/Cucumberhead
+2016-06-28 13:04:55 : >> Removing file item: /Users/thomas/Library/Application Support/Cucumberhead
+2016-06-28 13:04:55 :  > Removing: /Library/PrivilegedHelperTools/com.genieoinnovation.macextension.client
+2016-06-28 13:04:55 : >> Removing file item: /Library/PrivilegedHelperTools/com.genieoinnovation.macextension.client
+2016-06-28 13:04:55 :  > Removing: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/my-homepage.xml
+2016-06-28 13:04:55 : >> Removing file item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/my-homepage.xml
+2016-06-28 13:04:55 :  > Removing: /Users/thomas/Library/LaunchAgents/com.Installer.completer.update.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.update.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.update.plist
+2016-06-28 13:04:55 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.Installer.completer.update.plist
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Cucumberhead.update.plist
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Leperdvil.update.plist
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Application Support/keka
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/Application Support/keka
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/LaunchAgents/gUpdater.plist
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/LaunchAgents/gUpdater.plist
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Safari/Extensions/extension.safariextz,/Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/lmohghbgifbcpoeibfjpbeamdjdjogec,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/l@R5W.com
+2016-06-28 13:04:56 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/extension.safariextz
+2016-06-28 13:04:56 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/lmohghbgifbcpoeibfjpbeamdjdjogec
+2016-06-28 13:04:56 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/l@R5W.com
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Safari/Extensions/extension.safariextz
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/Safari/Extensions/extension.safariextz
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Application Support/osxDownloader
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/Application Support/osxDownloader
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Safari/Extensions/Awesome Screenshot.safariextz
+2016-06-28 13:04:56 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/Awesome Screenshot.safariextz
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Safari/Extensions/torrenthandler.safariextz,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/TorrentHandler@TorrentHandler.com.xpi
+2016-06-28 13:04:56 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/torrenthandler.safariextz
+2016-06-28 13:04:56 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/TorrentHandler@TorrentHandler.com.xpi
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Safari/Extensions/GoPhoto.it V9.0.safariextz,/Users/thomas/Library/Application Support/Google/Chrome/External Extensions/bgnnidmnbdkmhfkjgdnngciimpdgohok.json,/private/var/tmp/freehdsport.crx,/Users/thomas/Library/Application Support/Google/Chrome/External Extensions/ccfjbdjailljfihgkoccfbiljjapiijb.json,/private/var/tmp/gophoto-it.crx,/Users/thomas/Library/Application Support/Google/Chrome/External Extensions/pfmopbbadnfoelckkcmjjeaaegjpjjbk.json,/private/var/tmp/gophotoit.crx,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/gophoto@gophoto.it.xpi
+2016-06-28 13:04:56 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/GoPhoto.it V9.0.safariextz
+2016-06-28 13:04:56 : >> Removing extension item: /private/var/tmp/freehdsport.crx
+2016-06-28 13:04:56 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/External Extensions/bgnnidmnbdkmhfkjgdnngciimpdgohok.json
+2016-06-28 13:04:56 : >> Removing extension item: /private/var/tmp/gophoto-it.crx
+2016-06-28 13:04:56 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/External Extensions/ccfjbdjailljfihgkoccfbiljjapiijb.json
+2016-06-28 13:04:56 : >> Removing extension item: /private/var/tmp/gophotoit.crx
+2016-06-28 13:04:56 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/External Extensions/pfmopbbadnfoelckkcmjjeaaegjpjjbk.json
+2016-06-28 13:04:56 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/gophoto@gophoto.it.xpi
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Application Support/Google/Chrome/External Extensions/ccfjbdjailljfihgkoccfbiljjapiijb.json
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/Application Support/Google/Chrome/External Extensions/ccfjbdjailljfihgkoccfbiljjapiijb.json
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/llfmanloloafkeemlckaepkpakoeacfo,/Users/thomas/Library/Application Support/Google/Chrome/External Extensions/ccfjbdjailljfihgkoccfbiljjapiijb.json,/private/var/tmp/gophoto-it.crx,/Users/thomas/Library/Application Support/Mozilla/Extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/837a165494f7440b8dc6b1ff2bf06@79bf096c24fc443d8b018a.com
+2016-06-28 13:04:56 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/llfmanloloafkeemlckaepkpakoeacfo
+2016-06-28 13:04:56 : >> Removing extension item: /Users/thomas/Library/Application Support/Mozilla/Extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/837a165494f7440b8dc6b1ff2bf06@79bf096c24fc443d8b018a.com
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/llfmanloloafkeemlckaepkpakoeacfo
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Application Support/Mozilla/Extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/837a165494f7440b8dc6b1ff2bf06@79bf096c24fc443d8b018a.com
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/LaunchAgents/Safari Security
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Safari Security
+2016-06-28 13:04:56 :  > Removing: /Library/cinemapro1-2
+2016-06-28 13:04:56 : >> Removing file item: /Library/cinemapro1-2
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/LaunchAgents/com.flashmall.agent.plist
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.flashmall.agent.plist
+2016-06-28 13:04:56 :  > Removing: /Library/LaunchDaemons/com.cinemapro1-2.daemon.plist
+2016-06-28 13:04:56 : >> Removing file item: /Library/LaunchDaemons/com.cinemapro1-2.daemon.plist
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_enabler.plist,/Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_updater.plist
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_enabler.plist
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_updater.plist
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_updater.sh
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_updater.sh
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_enabler.sh
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_enabler.sh
+2016-06-28 13:04:56 :  > Removing: /Library/LaunchAgents/com.webhelper.uFrGfkbeQ35d.plist
+2016-06-28 13:04:56 : >> Removing file item: /Library/LaunchAgents/com.webhelper.uFrGfkbeQ35d.plist
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/LaunchAgents/com.WebTools.oiuqw343sQ9a.helpd.plist,/Users/thomas/Library/LaunchAgents/com.WebTools.oiuqw343sQ9a.plist
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.WebTools.oiuqw343sQ9a.helpd.plist
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.WebTools.oiuqw343sQ9a.plist
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Application Support/webhelper
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/Application Support/webhelper
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Application Support/WebTools
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/Application Support/WebTools
+2016-06-28 13:04:56 :  > Removing: /Applications/WebTools.app
+2016-06-28 13:04:56 : >> Removing file item: /Applications/WebTools.app
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Applications/flashmall.app
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Applications/flashmall.app
+2016-06-28 13:04:56 :  > Removing: /Applications/cinemapro1-2.app
+2016-06-28 13:04:56 : >> Removing file item: /Applications/cinemapro1-2.app
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/LaunchAgents/UpdateDownloader
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/LaunchAgents/UpdateDownloader
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/LaunchAgents/com.extensions.updater67619.agent.plist
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.extensions.updater67619.agent.plist
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/LaunchAgents/com.extensions.updater67619.ver
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.extensions.updater67619.ver
+2016-06-28 13:04:56 :  > Removing: /Applications/SoftwareUpdater/
+2016-06-28 13:04:56 : >> Removing file item: /Applications/SoftwareUpdater/
+2016-06-28 13:04:56 :  > Removing: /Library/LaunchAgents/com.SoftwareUpdater.agent.plist
+2016-06-28 13:04:56 : >> Removing file item: /Library/LaunchAgents/com.SoftwareUpdater.agent.plist
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/LaunchAgents/com.SoftwareUpdater.agent.plist
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.SoftwareUpdater.agent.plist
+2016-06-28 13:04:56 :  > Removing: /Applications/SmartShoppy
+2016-06-28 13:04:56 : >> Removing file item: /Applications/SmartShoppy
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/LaunchAgents/com.SmartShoppy.agent.plist
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.SmartShoppy.agent.plist
+2016-06-28 13:04:56 :  > Removing: /Library/LaunchAgents/com.SmartShoppy.agent.plist
+2016-06-28 13:04:56 : >> Removing file item: /Library/LaunchAgents/com.SmartShoppy.agent.plist
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Safari/Extensions/searchAskApp_ORJ-M.safariextz
+2016-06-28 13:04:56 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/searchAskApp_ORJ-M.safariextz
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Application Support/Sponsors.framework
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/Application Support/Sponsors.framework
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/foagdimkhngpckboligookcjcmfnnbdk
+2016-06-28 13:04:56 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/foagdimkhngpckboligookcjcmfnnbdk
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/foagdimkhngpckboligookcjcmfnnbdk
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Safari/Extensions/CustomSearchForSafari.safariextz
+2016-06-28 13:04:56 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/CustomSearchForSafari.safariextz
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/jid1-VdJycrAITglSAg@jetpack.xpi
+2016-06-28 13:04:56 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/jid1-VdJycrAITglSAg@jetpack.xpi
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/mySearchPlug.xml
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/mySearchPlug.xml
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Application Support/mediahm
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/Application Support/mediahm
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/jiogeidobnphbnjmnlcjpopgfghcnebf,/Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/nngdfnnnkccipoglcgppagpgjkkbfclo,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/caa1-aDOiCAxFFMOVIX@jetpack.xpi
+2016-06-28 13:04:56 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/jiogeidobnphbnjmnlcjpopgfghcnebf
+2016-06-28 13:04:56 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/nngdfnnnkccipoglcgppagpgjkkbfclo
+2016-06-28 13:04:56 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/caa1-aDOiCAxFFMOVIX@jetpack.xpi
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/knebimhcckndhiglamoabbnifdkijidd
+2016-06-28 13:04:56 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/knebimhcckndhiglamoabbnifdkijidd
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/adbeaver@adbeaver.org.xpi
+2016-06-28 13:04:56 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/adbeaver@adbeaver.org.xpi
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{3e9bb2a7-62ca-4efa-a4e6-f6f6168a652d}.xpi
+2016-06-28 13:04:56 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{3e9bb2a7-62ca-4efa-a4e6-f6f6168a652d}.xpi
+2016-06-28 13:04:56 :  > Removing: /Applications/Advanced Mac Cleaner.app
+2016-06-28 13:04:56 : >> Removing file item: /Applications/Advanced Mac Cleaner.app
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Advanced Mac Cleaner
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/Advanced Mac Cleaner
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Application Support/Advanced Mac Cleaner
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/Application Support/Advanced Mac Cleaner
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Application Support/amc
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/Application Support/amc
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/LaunchAgents/com.pcv.hlpramc.plist
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.pcv.hlpramc.plist
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/LaunchAgents/com.apple.FinderExtAvt.plist
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.apple.FinderExtAvt.plist
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/Preferences/8pHbqThW
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/Preferences/8pHbqThW
+2016-06-28 13:04:56 :  > Removing: /Library/Application Support/JavaW/JavaW
+2016-06-28 13:04:56 : >> Removing file item: /Library/Application Support/JavaW/JavaW
+2016-06-28 13:04:56 :  > Removing: /Library/LaunchDaemons/com.JavaW.plist
+2016-06-28 13:04:56 : >> Removing file item: /Library/LaunchDaemons/com.JavaW.plist
+2016-06-28 13:04:56 :  > Removing: /Library/LaunchDaemons/com.apple.machook_damon.plist
+2016-06-28 13:04:56 : >> Removing file item: /Library/LaunchDaemons/com.apple.machook_damon.plist
+2016-06-28 13:04:56 :  > Removing: /Library/LaunchDaemons/com.apple.globalupdate.plist
+2016-06-28 13:04:56 : >> Removing file item: /Library/LaunchDaemons/com.apple.globalupdate.plist
+2016-06-28 13:04:56 :  > Removing: /Library/LaunchDaemons/com.apple.itunesupdate.plist
+2016-06-28 13:04:56 : >> Removing file item: /Library/LaunchDaemons/com.apple.itunesupdate.plist
+2016-06-28 13:04:56 :  > Removing: /Library/LaunchDaemons/com.apple.watchproc.plist
+2016-06-28 13:04:56 : >> Removing file item: /Library/LaunchDaemons/com.apple.watchproc.plist
+2016-06-28 13:04:56 :  > Removing: /Users/thomas/Library/LaunchAgents/com.google.plugins.plist
+2016-06-28 13:04:56 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.google.plugins.plist
+2016-06-28 13:04:56 :  > Removing: /Applications/Transmission.app
+2016-06-28 13:04:56 : >> Removing file item: /Applications/Transmission.app
+2016-06-28 13:04:56 : Threat removal complete.
+2016-06-28 13:04:56 : ===== User declined restart =====
+2016-06-28 13:18:33 :  
+2016-06-28 13:18:33 : ----- Scan Started -----
+2016-06-28 13:18:33 : Scanning with signatures version 87 (2016-6-27)
+2016-06-28 13:18:33 : Adware.ClickAgent : /Users/thomas/Library/Safari/Extensions/FlashPlayer11.safariextz
+2016-06-28 13:18:33 : Adware.Spigot : /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/searchme@mybrowserbar.com.xpi,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{84977DE9-1026-4508-B9A7-9116BDAAB098}.xpi,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{A92BC493-FA5B-40a5-AFC8-6672926C9544}.xpi
+2016-06-28 13:18:33 : Adware.IronCore : /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{1e75ea56-e618-41ff-86a2-cc6be7bddce3}
+2016-06-28 13:18:36 : Adware.IronCore : /Users/thomas/Library/Safari/Extensions/tKa9FYS.safariextz
+2016-06-28 13:18:36 : Adware.IronCore : /Applications/searchinstStub_3.0.3.0.app
+2016-06-28 13:18:37 : Adware.Conduit : /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/cbmjmfcldbpelhknnfjbkobmabafpoed
+2016-06-28 13:18:37 : Adware.Conduit : /Users/thomas/Library/Safari/Extensions/searchExt.safariextz,/Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/cbmjmfcldbpelhknnfjbkobmabafpoed,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{7f0d2b4d-8224-4987-b8c8-311b59909a36},/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{aefeda6a-9a49-47e5-9307-ecbec7d6d879}
+2016-06-28 13:18:37 : Adware.Conduit : /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/'Conduit Customized Web Search'.xml
+2016-06-28 13:18:37 : Adware.Conduit : /Users/thomas/Library/Safari/Extensions/searchExt.safariextz
+2016-06-28 13:18:37 : Adware.VSearch : /Library/Application Support/9ad43503aa2237a3
+2016-06-28 13:18:37 : Adware.VSearch : /Library/Application Support/Dares
+2016-06-28 13:18:37 : Adware.VSearch : /Library/Application Support/Dares,/Library/Application Support/Horntail
+2016-06-28 13:18:37 : Adware.VSearch : /Library/LaunchAgents/com.9ad43503aa2237a3.agent.plist
+2016-06-28 13:18:37 : Adware.VSearch : /Library/LaunchDaemons/com.9ad43503aa2237a3.daemon.plist,/Library/LaunchDaemons/com.9ad43503aa2237a3.helper.plist
+2016-06-28 13:18:37 : Adware.VSearch : /Library/LaunchAgents/com.9ad43503aa2237a3.agent.plist,/Library/LaunchAgents/com.dares.agent.plist
+2016-06-28 13:18:37 : Adware.VSearch : /Library/LaunchDaemons/com.9ad43503aa2237a3.daemon.plist,/Library/LaunchDaemons/com.9ad43503aa2237a3.helper.plist,/Library/LaunchDaemons/com.dares.daemon.plist,/Library/LaunchDaemons/com.dares.helper.plist,/Library/LaunchDaemons/com.horntail.daemon.plist,/Library/LaunchDaemons/com.horntail.helper.plist
+2016-06-28 13:18:38 : Adware.VSearch : /Library/precommunicate
+2016-06-28 13:18:38 : Adware.VSearch : /Library/LaunchDaemons/com.precommunicate.net-preferences.plist
+2016-06-28 13:18:38 : Adware.VSearch : /etc/change_net_settings.sh
+2016-06-28 13:18:39 : OSX.Genieo : /Users/thomas/Library/Safari/Extensions/Omnibar.safariextz
+2016-06-28 13:18:39 : OSX.Genieo : /Users/thomas/Library/Safari/Extensions/Cucumberhead.safariextz,/Users/thomas/Library/Safari/Extensions/InKeepr.safariextz,/Users/thomas/Library/Safari/Extensions/Jakecares.safariextz,/Users/thomas/Library/Safari/Extensions/Listchack.safariextz,/Users/thomas/Library/Safari/Extensions/Omnibar.safariextz
+2016-06-28 13:18:39 : OSX.Genieo : /Users/thomas/Library/LaunchAgents/com.installer.completer.download.plist
+2016-06-28 13:18:39 : OSX.Genieo : /Users/thomas/Library/LaunchAgents/com.installer.completer.update.plist
+2016-06-28 13:18:39 : OSX.Genieo : /Users/thomas/Library/LaunchAgents/com.installer.completer.ltvbit.plist
+2016-06-28 13:18:39 : OSX.Genieo : /Users/thomas/Library/LaunchAgents/Cucumberhead.AppRemoval.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.download.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.ltvbit.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.update.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.download.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.ltvbit.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.update.plist
+2016-06-28 13:18:39 : OSX.Genieo : /Library/LaunchAgents/com.genieoinnovation.macextension.plist
+2016-06-28 13:18:39 : OSX.Genieo : /Library/LaunchDaemons/com.genieoinnovation.macextension.client.plist
+2016-06-28 13:18:39 : OSX.Genieo : /Applications/Genieo.app
+2016-06-28 13:18:39 : OSX.Genieo : /Applications/JakeCares
+2016-06-28 13:18:39 : OSX.Genieo : /Applications/Cucumberhead
+2016-06-28 13:18:39 : OSX.Genieo : /Users/thomas/Library/Application Support/Epolife
+2016-06-28 13:18:39 : OSX.Genieo : /Users/thomas/Library/Application Support/Myppes
+2016-06-28 13:18:39 : OSX.Genieo : /Users/thomas/Library/Application Support/Cucumberhead
+2016-06-28 13:18:39 : OSX.Genieo : /Library/PrivilegedHelperTools/com.genieoinnovation.macextension.client
+2016-06-28 13:18:39 : OSX.Genieo : /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/my-homepage.xml
+2016-06-28 13:18:39 : OSX.Genieo : /Users/thomas/Library/LaunchAgents/com.Installer.completer.update.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.update.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.update.plist
+2016-06-28 13:18:39 : OSX.Genieo : /Users/thomas/Library/Application Support/keka
+2016-06-28 13:18:39 : OSX.Genieo : /Users/thomas/Library/LaunchAgents/gUpdater.plist
+2016-06-28 13:18:39 : Adware.Vidx/MacVX : /Users/thomas/Library/Safari/Extensions/extension.safariextz,/Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/lmohghbgifbcpoeibfjpbeamdjdjogec,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/l@R5W.com
+2016-06-28 13:18:40 : Adware.Vidx/MacVX : /Users/thomas/Library/Safari/Extensions/extension.safariextz
+2016-06-28 13:18:40 : Adware.Vidx/MacVX : /Users/thomas/Library/Application Support/osxDownloader
+2016-06-28 13:18:40 : Adware.Awesome Screenshot : /Users/thomas/Library/Safari/Extensions/Awesome Screenshot.safariextz
+2016-06-28 13:18:40 : Adware.Crossrider : /Users/thomas/Library/Safari/Extensions/torrenthandler.safariextz,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/TorrentHandler@TorrentHandler.com.xpi
+2016-06-28 13:18:40 : Adware.Crossrider : /Users/thomas/Library/Safari/Extensions/GoPhoto.it V9.0.safariextz,/Users/thomas/Library/Application Support/Google/Chrome/External Extensions/bgnnidmnbdkmhfkjgdnngciimpdgohok.json,/private/var/tmp/freehdsport.crx,/Users/thomas/Library/Application Support/Google/Chrome/External Extensions/ccfjbdjailljfihgkoccfbiljjapiijb.json,/private/var/tmp/gophoto-it.crx,/Users/thomas/Library/Application Support/Google/Chrome/External Extensions/pfmopbbadnfoelckkcmjjeaaegjpjjbk.json,/private/var/tmp/gophotoit.crx,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/gophoto@gophoto.it.xpi
+2016-06-28 13:18:40 : Adware.Crossrider : /Users/thomas/Library/Application Support/Google/Chrome/External Extensions/ccfjbdjailljfihgkoccfbiljjapiijb.json
+2016-06-28 13:18:41 : Adware.Crossrider : /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/llfmanloloafkeemlckaepkpakoeacfo,/Users/thomas/Library/Application Support/Google/Chrome/External Extensions/ccfjbdjailljfihgkoccfbiljjapiijb.json,/private/var/tmp/gophoto-it.crx,/Users/thomas/Library/Application Support/Mozilla/Extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/837a165494f7440b8dc6b1ff2bf06@79bf096c24fc443d8b018a.com
+2016-06-28 13:18:42 : Adware.Crossrider : /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/llfmanloloafkeemlckaepkpakoeacfo
+2016-06-28 13:18:42 : Adware.Crossrider : /Users/thomas/Library/Application Support/Mozilla/Extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/837a165494f7440b8dc6b1ff2bf06@79bf096c24fc443d8b018a.com
+2016-06-28 13:18:42 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/Safari Security
+2016-06-28 13:18:42 : Adware.Crossrider : /Library/cinemapro1-2
+2016-06-28 13:18:42 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/com.flashmall.agent.plist
+2016-06-28 13:18:42 : Adware.Crossrider : /Library/LaunchDaemons/com.cinemapro1-2.daemon.plist
+2016-06-28 13:18:42 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_enabler.plist,/Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_updater.plist
+2016-06-28 13:18:42 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_updater.sh
+2016-06-28 13:18:42 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_enabler.sh
+2016-06-28 13:18:42 : Adware.Crossrider : /Library/LaunchAgents/com.webhelper.uFrGfkbeQ35d.plist
+2016-06-28 13:18:42 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/com.WebTools.oiuqw343sQ9a.helpd.plist,/Users/thomas/Library/LaunchAgents/com.WebTools.oiuqw343sQ9a.plist
+2016-06-28 13:18:42 : Adware.Crossrider : /Users/thomas/Library/Application Support/webhelper
+2016-06-28 13:18:42 : Adware.Crossrider : /Users/thomas/Library/Application Support/WebTools
+2016-06-28 13:18:42 : Adware.Crossrider : /Applications/WebTools.app
+2016-06-28 13:18:42 : Adware.Crossrider : /Users/thomas/Applications/flashmall.app
+2016-06-28 13:18:42 : Adware.Crossrider : /Applications/cinemapro1-2.app
+2016-06-28 13:18:42 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/UpdateDownloader
+2016-06-28 13:18:42 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/com.extensions.updater67619.agent.plist
+2016-06-28 13:18:42 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/com.extensions.updater67619.ver
+2016-06-28 13:18:42 : Adware.Crossrider : /Applications/SoftwareUpdater/
+2016-06-28 13:18:42 : Adware.Crossrider : /Library/LaunchAgents/com.SoftwareUpdater.agent.plist
+2016-06-28 13:18:42 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/com.SoftwareUpdater.agent.plist
+2016-06-28 13:18:42 : Adware.Crossrider : /Applications/SmartShoppy
+2016-06-28 13:18:42 : Adware.Crossrider : /Users/thomas/Library/LaunchAgents/com.SmartShoppy.agent.plist
+2016-06-28 13:18:42 : Adware.Crossrider : /Library/LaunchAgents/com.SmartShoppy.agent.plist
+2016-06-28 13:18:42 : Adware.Ask Toolbar : /Users/thomas/Library/Safari/Extensions/searchAskApp_ORJ-M.safariextz
+2016-06-28 13:18:42 : Adware.Ask Toolbar : /Users/thomas/Library/Application Support/Sponsors.framework
+2016-06-28 13:18:43 : Adware.Ask Toolbar : /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/foagdimkhngpckboligookcjcmfnnbdk
+2016-06-28 13:18:44 : Adware.Recipe Hub : /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/foagdimkhngpckboligookcjcmfnnbdk
+2016-06-28 13:18:44 : Adware.Linkury : /Users/thomas/Library/Safari/Extensions/CustomSearchForSafari.safariextz
+2016-06-28 13:18:45 : Adware.OperatorMac : /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/jid1-VdJycrAITglSAg@jetpack.xpi
+2016-06-28 13:18:45 : Adware.OperatorMac : /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/mySearchPlug.xml
+2016-06-28 13:18:45 : Adware.OperatorMac : /Users/thomas/Library/Application Support/mediahm
+2016-06-28 13:18:45 : Adware.GoMovix : /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/jiogeidobnphbnjmnlcjpopgfghcnebf,/Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/nngdfnnnkccipoglcgppagpgjkkbfclo,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/caa1-aDOiCAxFFMOVIX@jetpack.xpi
+2016-06-28 13:18:45 : Adware.Adblock Super : /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/knebimhcckndhiglamoabbnifdkijidd
+2016-06-28 13:18:45 : Adware.AdBeaver : /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/adbeaver@adbeaver.org.xpi
+2016-06-28 13:18:45 : PUP.ShowIP : /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{3e9bb2a7-62ca-4efa-a4e6-f6f6168a652d}.xpi
+2016-06-28 13:18:52 : PUP.Advanced Mac Cleaner : /Applications/Advanced Mac Cleaner.app
+2016-06-28 13:18:52 : PUP.Advanced Mac Cleaner : /Users/thomas/Library/Advanced Mac Cleaner
+2016-06-28 13:18:52 : PUP.Advanced Mac Cleaner : /Users/thomas/Library/Application Support/Advanced Mac Cleaner
+2016-06-28 13:18:52 : PUP.Advanced Mac Cleaner : /Users/thomas/Library/Application Support/amc
+2016-06-28 13:18:52 : PUP.Advanced Mac Cleaner : /Users/thomas/Library/LaunchAgents/com.pcv.hlpramc.plist
+2016-06-28 13:18:52 : OSX.Crisis : /Users/thomas/Library/LaunchAgents/com.apple.FinderExtAvt.plist
+2016-06-28 13:18:52 : OSX.Crisis : /Users/thomas/Library/Preferences/8pHbqThW
+2016-06-28 13:18:52 : OSX.iWorm : /Library/Application Support/JavaW/JavaW
+2016-06-28 13:18:52 : OSX.iWorm : /Library/LaunchDaemons/com.JavaW.plist
+2016-06-28 13:18:52 : OSX.WireLurker : /Library/LaunchDaemons/com.apple.machook_damon.plist
+2016-06-28 13:18:52 : OSX.WireLurker : /Library/LaunchDaemons/com.apple.globalupdate.plist
+2016-06-28 13:18:52 : OSX.WireLurker : /Library/LaunchDaemons/com.apple.itunesupdate.plist
+2016-06-28 13:18:52 : OSX.WireLurker : /Library/LaunchDaemons/com.apple.watchproc.plist
+2016-06-28 13:18:52 : OSX.OceanLotus : /Users/thomas/Library/LaunchAgents/com.google.plugins.plist
+2016-06-28 13:18:53 : OSX.Ransomware.KeRanger : /Applications/Transmission.app
+2016-06-28 13:18:53 : *** Scan time: 0d 00:00:19 ***
+2016-06-28 13:18:53 : ------ Scan Ended ------
+2016-06-28 13:18:59 : Scan complete.
+2016-06-28 13:18:59 : Removing detected threats...
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Safari/Extensions/FlashPlayer11.safariextz
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/FlashPlayer11.safariextz
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/searchme@mybrowserbar.com.xpi,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{84977DE9-1026-4508-B9A7-9116BDAAB098}.xpi,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{A92BC493-FA5B-40a5-AFC8-6672926C9544}.xpi
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/searchme@mybrowserbar.com.xpi
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{84977DE9-1026-4508-B9A7-9116BDAAB098}.xpi
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{A92BC493-FA5B-40a5-AFC8-6672926C9544}.xpi
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{1e75ea56-e618-41ff-86a2-cc6be7bddce3}
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{1e75ea56-e618-41ff-86a2-cc6be7bddce3}
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Safari/Extensions/tKa9FYS.safariextz
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/tKa9FYS.safariextz
+2016-06-28 13:18:59 :  > Removing: /Applications/searchinstStub_3.0.3.0.app
+2016-06-28 13:18:59 : >> Removing file item: /Applications/searchinstStub_3.0.3.0.app
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/cbmjmfcldbpelhknnfjbkobmabafpoed
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/cbmjmfcldbpelhknnfjbkobmabafpoed
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Safari/Extensions/searchExt.safariextz,/Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/cbmjmfcldbpelhknnfjbkobmabafpoed,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{7f0d2b4d-8224-4987-b8c8-311b59909a36},/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{aefeda6a-9a49-47e5-9307-ecbec7d6d879}
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/searchExt.safariextz
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{7f0d2b4d-8224-4987-b8c8-311b59909a36}
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{aefeda6a-9a49-47e5-9307-ecbec7d6d879}
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/'Conduit Customized Web Search'.xml
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/'Conduit Customized Web Search'.xml
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Safari/Extensions/searchExt.safariextz
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/Safari/Extensions/searchExt.safariextz
+2016-06-28 13:18:59 :  > Removing: /Library/Application Support/9ad43503aa2237a3
+2016-06-28 13:18:59 : >> Removing file item: /Library/Application Support/9ad43503aa2237a3
+2016-06-28 13:18:59 :  > Removing: /Library/Application Support/Dares
+2016-06-28 13:18:59 : >> Removing file item: /Library/Application Support/Dares
+2016-06-28 13:18:59 :  > Removing: /Library/Application Support/Dares,/Library/Application Support/Horntail
+2016-06-28 13:18:59 : >> Removing file item: /Library/Application Support/Dares
+2016-06-28 13:18:59 : >> Removing file item: /Library/Application Support/Horntail
+2016-06-28 13:18:59 :  > Removing: /Library/LaunchAgents/com.9ad43503aa2237a3.agent.plist
+2016-06-28 13:18:59 : >> Removing file item: /Library/LaunchAgents/com.9ad43503aa2237a3.agent.plist
+2016-06-28 13:18:59 :  > Removing: /Library/LaunchDaemons/com.9ad43503aa2237a3.daemon.plist,/Library/LaunchDaemons/com.9ad43503aa2237a3.helper.plist
+2016-06-28 13:18:59 : >> Removing file item: /Library/LaunchDaemons/com.9ad43503aa2237a3.daemon.plist
+2016-06-28 13:18:59 : >> Removing file item: /Library/LaunchDaemons/com.9ad43503aa2237a3.helper.plist
+2016-06-28 13:18:59 :  > Removing: /Library/LaunchAgents/com.9ad43503aa2237a3.agent.plist,/Library/LaunchAgents/com.dares.agent.plist
+2016-06-28 13:18:59 : >> Removing file item: /Library/LaunchAgents/com.9ad43503aa2237a3.agent.plist
+2016-06-28 13:18:59 : >> Removing file item: /Library/LaunchAgents/com.dares.agent.plist
+2016-06-28 13:18:59 :  > Removing: /Library/LaunchDaemons/com.9ad43503aa2237a3.daemon.plist,/Library/LaunchDaemons/com.9ad43503aa2237a3.helper.plist,/Library/LaunchDaemons/com.dares.daemon.plist,/Library/LaunchDaemons/com.dares.helper.plist,/Library/LaunchDaemons/com.horntail.daemon.plist,/Library/LaunchDaemons/com.horntail.helper.plist
+2016-06-28 13:18:59 : >> Removing file item: /Library/LaunchDaemons/com.9ad43503aa2237a3.daemon.plist
+2016-06-28 13:18:59 : >> Removing file item: /Library/LaunchDaemons/com.9ad43503aa2237a3.helper.plist
+2016-06-28 13:18:59 : >> Removing file item: /Library/LaunchDaemons/com.dares.daemon.plist
+2016-06-28 13:18:59 : >> Removing file item: /Library/LaunchDaemons/com.dares.helper.plist
+2016-06-28 13:18:59 : >> Removing file item: /Library/LaunchDaemons/com.horntail.daemon.plist
+2016-06-28 13:18:59 : >> Removing file item: /Library/LaunchDaemons/com.horntail.helper.plist
+2016-06-28 13:18:59 :  > Removing: /Library/precommunicate
+2016-06-28 13:18:59 : >> Removing file item: /Library/precommunicate
+2016-06-28 13:18:59 :  > Removing: /Library/LaunchDaemons/com.precommunicate.net-preferences.plist
+2016-06-28 13:18:59 : >> Removing file item: /Library/LaunchDaemons/com.precommunicate.net-preferences.plist
+2016-06-28 13:18:59 :  > Removing: /etc/change_net_settings.sh
+2016-06-28 13:18:59 : >> Removing file item: /etc/change_net_settings.sh
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Safari/Extensions/Omnibar.safariextz
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/Omnibar.safariextz
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Safari/Extensions/Cucumberhead.safariextz,/Users/thomas/Library/Safari/Extensions/InKeepr.safariextz,/Users/thomas/Library/Safari/Extensions/Jakecares.safariextz,/Users/thomas/Library/Safari/Extensions/Listchack.safariextz,/Users/thomas/Library/Safari/Extensions/Omnibar.safariextz
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/Cucumberhead.safariextz
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/InKeepr.safariextz
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/Jakecares.safariextz
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/Listchack.safariextz
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/LaunchAgents/com.installer.completer.download.plist
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.installer.completer.download.plist
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/LaunchAgents/com.installer.completer.update.plist
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.installer.completer.update.plist
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/LaunchAgents/com.installer.completer.ltvbit.plist
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.installer.completer.ltvbit.plist
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/LaunchAgents/Cucumberhead.AppRemoval.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.download.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.ltvbit.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.update.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.download.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.ltvbit.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.update.plist
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Cucumberhead.AppRemoval.plist
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Cucumberhead.download.plist
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Cucumberhead.ltvbit.plist
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Cucumberhead.update.plist
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Leperdvil.download.plist
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Leperdvil.ltvbit.plist
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Leperdvil.update.plist
+2016-06-28 13:18:59 :  > Removing: /Library/LaunchAgents/com.genieoinnovation.macextension.plist
+2016-06-28 13:18:59 : >> Removing file item: /Library/LaunchAgents/com.genieoinnovation.macextension.plist
+2016-06-28 13:18:59 :  > Removing: /Library/LaunchDaemons/com.genieoinnovation.macextension.client.plist
+2016-06-28 13:18:59 : >> Removing file item: /Library/LaunchDaemons/com.genieoinnovation.macextension.client.plist
+2016-06-28 13:18:59 :  > Removing: /Applications/Genieo.app
+2016-06-28 13:18:59 : >> Removing file item: /Applications/Genieo.app
+2016-06-28 13:18:59 :  > Removing: /Applications/JakeCares
+2016-06-28 13:18:59 : >> Removing file item: /Applications/JakeCares
+2016-06-28 13:18:59 :  > Removing: /Applications/Cucumberhead
+2016-06-28 13:18:59 : >> Removing file item: /Applications/Cucumberhead
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/Epolife
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/Application Support/Epolife
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/Myppes
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/Application Support/Myppes
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/Cucumberhead
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/Application Support/Cucumberhead
+2016-06-28 13:18:59 :  > Removing: /Library/PrivilegedHelperTools/com.genieoinnovation.macextension.client
+2016-06-28 13:18:59 : >> Removing file item: /Library/PrivilegedHelperTools/com.genieoinnovation.macextension.client
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/my-homepage.xml
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/my-homepage.xml
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/LaunchAgents/com.Installer.completer.update.plist,/Users/thomas/Library/LaunchAgents/Cucumberhead.update.plist,/Users/thomas/Library/LaunchAgents/Leperdvil.update.plist
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.Installer.completer.update.plist
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Cucumberhead.update.plist
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Leperdvil.update.plist
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/keka
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/Application Support/keka
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/LaunchAgents/gUpdater.plist
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/gUpdater.plist
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Safari/Extensions/extension.safariextz,/Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/lmohghbgifbcpoeibfjpbeamdjdjogec,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/l@R5W.com
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/extension.safariextz
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/lmohghbgifbcpoeibfjpbeamdjdjogec
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/l@R5W.com
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Safari/Extensions/extension.safariextz
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/Safari/Extensions/extension.safariextz
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/osxDownloader
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/Application Support/osxDownloader
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Safari/Extensions/Awesome Screenshot.safariextz
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/Awesome Screenshot.safariextz
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Safari/Extensions/torrenthandler.safariextz,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/TorrentHandler@TorrentHandler.com.xpi
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/torrenthandler.safariextz
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/TorrentHandler@TorrentHandler.com.xpi
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Safari/Extensions/GoPhoto.it V9.0.safariextz,/Users/thomas/Library/Application Support/Google/Chrome/External Extensions/bgnnidmnbdkmhfkjgdnngciimpdgohok.json,/private/var/tmp/freehdsport.crx,/Users/thomas/Library/Application Support/Google/Chrome/External Extensions/ccfjbdjailljfihgkoccfbiljjapiijb.json,/private/var/tmp/gophoto-it.crx,/Users/thomas/Library/Application Support/Google/Chrome/External Extensions/pfmopbbadnfoelckkcmjjeaaegjpjjbk.json,/private/var/tmp/gophotoit.crx,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/gophoto@gophoto.it.xpi
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/GoPhoto.it V9.0.safariextz
+2016-06-28 13:18:59 : >> Removing extension item: /private/var/tmp/freehdsport.crx
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/External Extensions/bgnnidmnbdkmhfkjgdnngciimpdgohok.json
+2016-06-28 13:18:59 : >> Removing extension item: /private/var/tmp/gophoto-it.crx
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/External Extensions/ccfjbdjailljfihgkoccfbiljjapiijb.json
+2016-06-28 13:18:59 : >> Removing extension item: /private/var/tmp/gophotoit.crx
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/External Extensions/pfmopbbadnfoelckkcmjjeaaegjpjjbk.json
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/gophoto@gophoto.it.xpi
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/Google/Chrome/External Extensions/ccfjbdjailljfihgkoccfbiljjapiijb.json
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/Application Support/Google/Chrome/External Extensions/ccfjbdjailljfihgkoccfbiljjapiijb.json
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/llfmanloloafkeemlckaepkpakoeacfo,/Users/thomas/Library/Application Support/Google/Chrome/External Extensions/ccfjbdjailljfihgkoccfbiljjapiijb.json,/private/var/tmp/gophoto-it.crx,/Users/thomas/Library/Application Support/Mozilla/Extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/837a165494f7440b8dc6b1ff2bf06@79bf096c24fc443d8b018a.com
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/llfmanloloafkeemlckaepkpakoeacfo
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Application Support/Mozilla/Extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/837a165494f7440b8dc6b1ff2bf06@79bf096c24fc443d8b018a.com
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/llfmanloloafkeemlckaepkpakoeacfo
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/Mozilla/Extensions/{ec8030f7-c20a-464f-9b0e-13a3a9e97384}/837a165494f7440b8dc6b1ff2bf06@79bf096c24fc443d8b018a.com
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/LaunchAgents/Safari Security
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/Safari Security
+2016-06-28 13:18:59 :  > Removing: /Library/cinemapro1-2
+2016-06-28 13:18:59 : >> Removing file item: /Library/cinemapro1-2
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/LaunchAgents/com.flashmall.agent.plist
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.flashmall.agent.plist
+2016-06-28 13:18:59 :  > Removing: /Library/LaunchDaemons/com.cinemapro1-2.daemon.plist
+2016-06-28 13:18:59 : >> Removing file item: /Library/LaunchDaemons/com.cinemapro1-2.daemon.plist
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_enabler.plist,/Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_updater.plist
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_enabler.plist
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_updater.plist
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_updater.sh
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_updater.sh
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_enabler.sh
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/cinemas-+-plus-+_enabler.sh
+2016-06-28 13:18:59 :  > Removing: /Library/LaunchAgents/com.webhelper.uFrGfkbeQ35d.plist
+2016-06-28 13:18:59 : >> Removing file item: /Library/LaunchAgents/com.webhelper.uFrGfkbeQ35d.plist
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/LaunchAgents/com.WebTools.oiuqw343sQ9a.helpd.plist,/Users/thomas/Library/LaunchAgents/com.WebTools.oiuqw343sQ9a.plist
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.WebTools.oiuqw343sQ9a.helpd.plist
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.WebTools.oiuqw343sQ9a.plist
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/webhelper
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/Application Support/webhelper
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/WebTools
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/Application Support/WebTools
+2016-06-28 13:18:59 :  > Removing: /Applications/WebTools.app
+2016-06-28 13:18:59 : >> Removing file item: /Applications/WebTools.app
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Applications/flashmall.app
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Applications/flashmall.app
+2016-06-28 13:18:59 :  > Removing: /Applications/cinemapro1-2.app
+2016-06-28 13:18:59 : >> Removing file item: /Applications/cinemapro1-2.app
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/LaunchAgents/UpdateDownloader
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/UpdateDownloader
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/LaunchAgents/com.extensions.updater67619.agent.plist
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.extensions.updater67619.agent.plist
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/LaunchAgents/com.extensions.updater67619.ver
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.extensions.updater67619.ver
+2016-06-28 13:18:59 :  > Removing: /Applications/SoftwareUpdater/
+2016-06-28 13:18:59 : >> Removing file item: /Applications/SoftwareUpdater/
+2016-06-28 13:18:59 :  > Removing: /Library/LaunchAgents/com.SoftwareUpdater.agent.plist
+2016-06-28 13:18:59 : >> Removing file item: /Library/LaunchAgents/com.SoftwareUpdater.agent.plist
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/LaunchAgents/com.SoftwareUpdater.agent.plist
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.SoftwareUpdater.agent.plist
+2016-06-28 13:18:59 :  > Removing: /Applications/SmartShoppy
+2016-06-28 13:18:59 : >> Removing file item: /Applications/SmartShoppy
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/LaunchAgents/com.SmartShoppy.agent.plist
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.SmartShoppy.agent.plist
+2016-06-28 13:18:59 :  > Removing: /Library/LaunchAgents/com.SmartShoppy.agent.plist
+2016-06-28 13:18:59 : >> Removing file item: /Library/LaunchAgents/com.SmartShoppy.agent.plist
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Safari/Extensions/searchAskApp_ORJ-M.safariextz
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/searchAskApp_ORJ-M.safariextz
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/Sponsors.framework
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/Application Support/Sponsors.framework
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/foagdimkhngpckboligookcjcmfnnbdk
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/foagdimkhngpckboligookcjcmfnnbdk
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/foagdimkhngpckboligookcjcmfnnbdk
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Safari/Extensions/CustomSearchForSafari.safariextz
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Safari/Extensions/CustomSearchForSafari.safariextz
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/jid1-VdJycrAITglSAg@jetpack.xpi
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/jid1-VdJycrAITglSAg@jetpack.xpi
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/mySearchPlug.xml
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/searchplugins/mySearchPlug.xml
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/mediahm
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/Application Support/mediahm
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/jiogeidobnphbnjmnlcjpopgfghcnebf,/Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/nngdfnnnkccipoglcgppagpgjkkbfclo,/Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/caa1-aDOiCAxFFMOVIX@jetpack.xpi
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/jiogeidobnphbnjmnlcjpopgfghcnebf
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/nngdfnnnkccipoglcgppagpgjkkbfclo
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/caa1-aDOiCAxFFMOVIX@jetpack.xpi
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/knebimhcckndhiglamoabbnifdkijidd
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Application Support/Google/Chrome/Default/Extensions/knebimhcckndhiglamoabbnifdkijidd
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/adbeaver@adbeaver.org.xpi
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/adbeaver@adbeaver.org.xpi
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{3e9bb2a7-62ca-4efa-a4e6-f6f6168a652d}.xpi
+2016-06-28 13:18:59 : >> Removing extension item: /Users/thomas/Library/Application Support/Firefox/Profiles/szhd7c05.default/extensions/{3e9bb2a7-62ca-4efa-a4e6-f6f6168a652d}.xpi
+2016-06-28 13:18:59 :  > Removing: /Applications/Advanced Mac Cleaner.app
+2016-06-28 13:18:59 : >> Removing file item: /Applications/Advanced Mac Cleaner.app
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Advanced Mac Cleaner
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/Advanced Mac Cleaner
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/Advanced Mac Cleaner
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/Application Support/Advanced Mac Cleaner
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Application Support/amc
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/Application Support/amc
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/LaunchAgents/com.pcv.hlpramc.plist
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.pcv.hlpramc.plist
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/LaunchAgents/com.apple.FinderExtAvt.plist
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.apple.FinderExtAvt.plist
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/Preferences/8pHbqThW
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/Preferences/8pHbqThW
+2016-06-28 13:18:59 :  > Removing: /Library/Application Support/JavaW/JavaW
+2016-06-28 13:18:59 : >> Removing file item: /Library/Application Support/JavaW/JavaW
+2016-06-28 13:18:59 :  > Removing: /Library/LaunchDaemons/com.JavaW.plist
+2016-06-28 13:18:59 : >> Removing file item: /Library/LaunchDaemons/com.JavaW.plist
+2016-06-28 13:18:59 :  > Removing: /Library/LaunchDaemons/com.apple.machook_damon.plist
+2016-06-28 13:18:59 : >> Removing file item: /Library/LaunchDaemons/com.apple.machook_damon.plist
+2016-06-28 13:18:59 :  > Removing: /Library/LaunchDaemons/com.apple.globalupdate.plist
+2016-06-28 13:18:59 : >> Removing file item: /Library/LaunchDaemons/com.apple.globalupdate.plist
+2016-06-28 13:18:59 :  > Removing: /Library/LaunchDaemons/com.apple.itunesupdate.plist
+2016-06-28 13:18:59 : >> Removing file item: /Library/LaunchDaemons/com.apple.itunesupdate.plist
+2016-06-28 13:18:59 :  > Removing: /Library/LaunchDaemons/com.apple.watchproc.plist
+2016-06-28 13:18:59 : >> Removing file item: /Library/LaunchDaemons/com.apple.watchproc.plist
+2016-06-28 13:18:59 :  > Removing: /Users/thomas/Library/LaunchAgents/com.google.plugins.plist
+2016-06-28 13:18:59 : >> Removing file item: /Users/thomas/Library/LaunchAgents/com.google.plugins.plist
+2016-06-28 13:18:59 :  > Removing: /Applications/Transmission.app
+2016-06-28 13:18:59 : >> Removing file item: /Applications/Transmission.app
+2016-06-28 13:18:59 : Threat removal complete.
+2016-06-28 13:18:59 : ===== User declined restart =====
+2016-06-29 16:27:37 :  
+2016-06-29 16:27:37 : ----- Scan Started -----
+2016-06-29 16:27:37 : Scanning with signatures version 87 (2016-6-27)
+2016-06-29 16:27:49 : Malwarebytes Breach Remediation did not find any threats on your system.
+
+2016-06-29 16:27:49 : *** Scan time: 0d 00:00:11 ***
+2016-06-29 16:27:49 : ------ Scan Ended ------
+2016-06-29 16:27:52 : Scan complete.
+2016-07-20 10:10:34 :  
+2016-07-20 10:10:34 : ----- Scan Started -----
+2016-07-20 10:10:34 : Scanning with signatures version 93 (2016-7-18)
+2016-07-20 10:10:46 : Malwarebytes Breach Remediation did not find any threats on your system.
+
+2016-07-20 10:10:46 : *** Scan time: 0d 00:00:11 ***
+2016-07-20 10:10:46 : ------ Scan Ended ------
+2016-07-20 10:10:47 : Scan complete.
+2016-08-16 21:25:05 :  
+2016-08-16 21:25:05 : ----- Scan Started -----
+2016-08-16 21:25:05 : Scanning with signatures version 101 (2016-8-15)
+2016-08-16 21:25:18 : Malwarebytes Breach Remediation did not find any threats on your system.
+
+2016-08-16 21:25:18 : *** Scan time: 0d 00:00:13 ***
+2016-08-16 21:25:18 : ------ Scan Ended ------
+2016-08-16 21:25:20 : Scan complete.
