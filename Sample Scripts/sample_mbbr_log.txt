@@ -1,0 +1,23 @@
+2016-05-02 15:17:19 : ----- Scan Started -----
+2016-05-02 15:17:19 : Scanning with signatures version 66 (2016-5-2)
+2016-05-02 15:17:19 : EICAR-AV-Test : /Users/Shared/Malwarebytes/eicar.txt
+2016-05-02 15:17:25 : Adware.Webpage Screenshot : /Users/treed/Library/Application Support/Google/Chrome/Default/Extensions/akgpcdalpfphjmfifkmfbpdmgdmeeaeo
+2016-05-02 15:17:29 : PUP.Advanced Mac Cleaner : /Users/treed/Library/LaunchAgents/com.pcv.hlpramc.plist
+2016-05-02 15:17:29 : OSX.Crisis : /Users/treed/Library/LaunchAgents/com.apple.FinderExtAvt.plist
+2016-05-02 15:17:29 : Trojan.SteamStealer.CSGO : /Users/treed/Library/Application Support/Google/Chrome/Default/Extensions/henmpgdoahemejklpdjfhiehmpkoleig
+2016-05-02 15:17:29 : *** Scan time: 0d 00:00:10 ***
+2016-05-02 15:17:29 : ------ Scan Ended ------
+2016-05-02 15:17:30 : Scan complete.
+2016-05-02 15:17:30 : Removing detected threats...
+2016-05-02 15:17:30 :  > Removing: /Users/Shared/Malwarebytes/eicar.txt
+2016-05-02 15:17:30 : >> Removing file item: /Users/Shared/Malwarebytes/eicar.txt
+2016-05-02 15:17:30 :  > Removing: /Users/treed/Library/Application Support/Google/Chrome/Default/Extensions/akgpcdalpfphjmfifkmfbpdmgdmeeaeo
+2016-05-02 15:17:30 : >> Removing extension item: /Users/treed/Library/Application Support/Google/Chrome/Default/Extensions/akgpcdalpfphjmfifkmfbpdmgdmeeaeo
+2016-05-02 15:17:30 :  > Removing: /Users/treed/Library/LaunchAgents/com.pcv.hlpramc.plist
+2016-05-02 15:17:30 : >> Removing file item: /Users/treed/Library/LaunchAgents/com.pcv.hlpramc.plist
+2016-05-02 15:17:30 :  > Removing: /Users/treed/Library/LaunchAgents/com.apple.FinderExtAvt.plist
+2016-05-02 15:17:30 : >> Removing file item: /Users/treed/Library/LaunchAgents/com.apple.FinderExtAvt.plist
+2016-05-02 15:17:30 :  > Removing: /Users/treed/Library/Application Support/Google/Chrome/Default/Extensions/henmpgdoahemejklpdjfhiehmpkoleig
+2016-05-02 15:17:30 : >> Removing extension item: /Users/treed/Library/Application Support/Google/Chrome/Default/Extensions/henmpgdoahemejklpdjfhiehmpkoleig
+2016-05-02 15:17:30 : Threat removal complete.
+2016-05-02 15:17:30 : ===== User declined restart =====
