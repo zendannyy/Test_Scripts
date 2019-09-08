@@ -1,0 +1,22 @@
+treed$ sudo python output_to_json.py
+{
+  "needsReboot": "true", 
+  "threatsFound": 3, 
+  "detectedThreats": [
+    {
+      "threatType": "Adware", 
+      "threatName": "Adware.Spigot", 
+      "threatPath": "/Users/treed/Library/LaunchAgents/com.spigot.SearchProtection.plist"
+    }, 
+    {
+      "threatType": "Malware", 
+      "threatName": "OSX.Genieo", 
+      "threatPath": "/Applications/Genieo.app"
+    }, 
+    {
+      "threatType": "Malware", 
+      "threatName": "OSX.Backdoor.Adwind", 
+      "threatPath": "/Users/treed/Library/LaunchAgents/org.yrGfjOQJztZ.plist"
+    }
+  ]
+}
