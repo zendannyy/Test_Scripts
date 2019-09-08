@@ -1,0 +1,5 @@
+166.126.193.185.in-addr.arpa	name = host-185-193-126-166.njalla.net.
+15.154.111.193.in-addr.arpa	name = 193.111.154.15.deltahost-ptr.
+215.231.206.5.in-addr.arpa	name = sessys215.flockus.com.
+178.230.8.52.in-addr.arpa	name = ec2-52-8-230-178.us-west-1.compute.amazonaws.com.
+

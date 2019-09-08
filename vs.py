@@ -5,7 +5,7 @@ params = {'apikey': , 'resource': hashes_file}		# Changed order of params here
 response = requests.get('https://www.virustotal.com/api/v2/file/report', params)
 r = response.json()
 for hash in hashes_file:
-	if (r['response'] >= 10:	# greater than 20 hits 	# using dictionaries to call key:value 
+	if r['response'] >= 10:	# greater than 10 hits , using dictionaries to call key:value 
 		print ("malicious threshold met, investigate")
 	else:
 		print ("malicious confidence & threshold not met")
