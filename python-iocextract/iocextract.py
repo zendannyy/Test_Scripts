@@ -13,14 +13,12 @@ import argparse
 import binascii
 import base64
 
-try:
-    # python3
+try:        # python3
     from urllib.parse import urlparse, unquote
     unicode = str
 except ImportError:
     from urlparse import urlparse
     from urllib import unquote
-
 
 import ipaddress
 import regex as re
@@ -688,29 +686,29 @@ def defang(ioc):
 
 
 def main():
-    """Run as a commandline utility."""
+    """Run as a commandline utility.""" 
     parser = argparse.ArgumentParser(
         description="""Advanced Indicator of Compromise (IOC) extractor.
                        If no arguments are specified, the default behavior is
-                       to extract all IOCs.""")
-    parser.add_argument('--input', type=lambda x: io.open(x, 'r', encoding='utf-8', errors='ignore'),
+                       to extract all IOCs.""")     # changed --input and all susequent arguments to -input and so forth
+    parser.add_argument('-input', type=lambda x: io.open(x, 'r', encoding='utf-8', errors='ignore'),
                         default=io.open(0, 'r', encoding='utf-8', errors='ignore'), help="default: stdin")
-    parser.add_argument('--output', type=lambda x: io.open(x, 'w', encoding='utf-8', errors='ignore'),
+    parser.add_argument('-output', type=lambda x: io.open(x, 'w', encoding='utf-8', errors='ignore'),
                         default=io.open(1, 'w', encoding='utf-8', errors='ignore'), help="default: stdout")
-    parser.add_argument('--extract-emails', action='store_true')
-    parser.add_argument('--extract-ips', action='store_true')
-    parser.add_argument('--extract-ipv4s', action='store_true')
-    parser.add_argument('--extract-ipv6s', action='store_true')
-    parser.add_argument('--extract-urls', action='store_true')
-    parser.add_argument('--extract-yara-rules', action='store_true')
-    parser.add_argument('--extract-hashes', action='store_true')
-    parser.add_argument('--custom-regex', type=lambda x: io.open(x, 'r', encoding='utf-8', errors='ignore'),
+    parser.add_argument('-extract-emails', action='store_true')
+    parser.add_argument('-extract-ips', action='store_true')
+    parser.add_argument('-extract-ipv4s', action='store_true')
+    parser.add_argument('-extract-ipv6s', action='store_true')
+    parser.add_argument('-extract-urls', action='store_true')
+    parser.add_argument('-extract-yara-rules', action='store_true')
+    parser.add_argument('-extract-hashes', action='store_true')
+    parser.add_argument('-custom-regex', type=lambda x: io.open(x, 'r', encoding='utf-8', errors='ignore'),
                         metavar='REGEX_FILE',
                         help="file with custom regex strings, one per line, with one capture group each")
-    parser.add_argument('--refang', action='store_true', help="default: no")
-    parser.add_argument('--strip-urls', action='store_true',
+    parser.add_argument('-refang', action='store_true', help="default: no")
+    parser.add_argument('-strip-urls', action='store_true',
                         help="remove possible garbage from the end of urls. default: no")
-    parser.add_argument('--wide', action='store_true',
+    parser.add_argument('-wide', action='store_true',
                         help="preprocess input to allow wide-encoded character matches. default: no")
     args = parser.parse_args()
 
