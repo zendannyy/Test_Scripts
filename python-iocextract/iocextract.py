@@ -684,9 +684,9 @@ def defang(ioc):
 
     return defanged
 
-
+# commandline utility and 'usage' equivalent is here 
 def main():
-    """Run as a commandline utility.""" 
+    """Run as a commandline utility. This is a docstring""" 
     parser = argparse.ArgumentParser(
         description="""Advanced Indicator of Compromise (IOC) extractor.
                        If no arguments are specified, the default behavior is
