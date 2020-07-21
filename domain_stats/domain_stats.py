@@ -213,7 +213,7 @@ def main():
     parser.add_argument('--all',action="store_true",required=False,help='Return all of the values in a field if multiples exist. By default it only returns the last value.')
     parser.add_argument('--preload',type=int,default=100,help='preload cache with this number of the top Alexa domain entries. set to 0 to disable.  Default 100')
     parser.add_argument('--delay',type=float,default=0.1,help='Delay between whois lookups while staging the initial cache.  Default is 0.1')
-    parser.add_argument('--garbage-cycle',type=int,default=86400,help='Delete entries in cache older than --cache-time at this iterval (seconds).  Default is 86400 (once per day)')
+    parser.add_argument('--garbage-cycle',type=int,default=86400,help='Delete entries in cache older than --cache-time at this interval (seconds).  Default is 86400 (once per day)')
 
     args = parser.parse_args()
 
