@@ -1,6 +1,7 @@
-#!/usr/bin/python3
-"""following script uses requests to make GET requests w/ vt's API
-https://developers.virustotal.com/reference#file-report"""
+#!/usr/bin/env python3
+"""following script uses requests to make GET requests w/ VT's API
+https://developers.virustotal.com/reference#file-report
+The idea is you have a specific IOC to lookup in VT, and want a quick response at the CLI """
 import os
 import sys
 import argparse
@@ -8,7 +9,7 @@ import requests
 
 
 class VTSafe:
-	"""docstring for VTSafe class, holding the key and parameters"""
+	"""for VTSafe class, holding the key and parameters"""
 	def __init__(self):
 		"""To retrieve the key"""
 		super(VTSafe, self).__init__()
@@ -36,7 +37,7 @@ class VTSafe:
 		params = {'apikey': self.apikey, 'resource': hash}
 		response = requests.get("https://www.virustotal.com/vtapi/v2/file/report", params)
 		h = response.json()
-		
+
 		try:
 			if h['positives'] >= 5:		# greater than 10 hits
 				print("malicious threshold met, investigate")
@@ -70,8 +71,8 @@ def main():
 	"""main instantiates VTSafe class and executes functionality for all functions"""
 	vt = VTSafe()
 
-	parser = argparse.ArgumentParser(description="""CLI tool for VT's API. You can make requests for a domain, URL, or hash.
-		usage: python3 vt_get.py [-h] [-d DOMAIN] [-hash HASH] [-u URL]""")
+	parser = argparse.ArgumentParser(description="""CLI tool for VT's API. You can make requests for a domain, URL, 
+										or hash.""")
 	parser.add_argument('-d', '--domain', help='Performs a domain lookup for the domain entered')
 	parser.add_argument('-hash', help='Performs a hash lookup for the hash entered')
 	parser.add_argument('-u', '--url', help='Performs a URL lookup for the URL')
