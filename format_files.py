@@ -48,7 +48,7 @@ def convert_epoch_to_human_readable(input_epoch):
 def main():
 	parser: ArgumentParser = argparse.ArgumentParser(
 		description="""Supply the directory you want to format files for. Will print human readable timestamped files.
-			Option to rename files. 
+			\nOption to rename files. 
 			usage: format_files.py [-h] [-d DIRECTORY] [-r RENAME]""")
 	parser.add_argument('-d', '--directory', required=False, help='Formats files within the directory')
 	parser.add_argument('-f', '--file', required=False, help='Formats the file given')
