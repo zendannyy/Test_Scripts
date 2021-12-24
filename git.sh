@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# chmod +x
 
 # How to use this script
 function display_usage() {
