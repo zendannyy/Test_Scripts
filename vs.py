@@ -76,6 +76,10 @@ def main():
 	parser.add_argument('-d', '--domain', help='Performs a domain lookup for the domain entered')
 	parser.add_argument('-hash', help='Performs a hash lookup for the hash entered')
 	parser.add_argument('-u', '--url', help='Performs a URL lookup for the URL')
+	parser.add_argument('--domain-file', help='Performs domain lookups for domains listed in the input file')
+	parser.add_argument('--hash-file', help='Performs hash lookups for hashes listed in the input file')
+	parser.add_argument('--url-file', help='Performs URL lookups for URLs listed in the input file')
+
 	args = parser.parse_args()
 
 	if len(sys.argv) < 2:
@@ -86,13 +90,22 @@ def main():
 		resource = args.domain
 		vt.domain_lookup(args.domain)
 
+	if args.domain_file:
+		vt.process_file(args.domain_file, 'domain')
+
 	if args.hash:
 		resource = args.hash
 		vt.hash_lookup(args.hash)
 
+	if args.hash_file:
+		vt.process_file(args.hash_file, 'hash')
+
 	if args.url:
-		resource = args.url
+		# resource = args.url
 		vt.url_lookup(args.url)
+	
+	if args.url_file:
+		vt.process_file(args.url_file, 'url')
 
 
 if __name__ == '__main__':
