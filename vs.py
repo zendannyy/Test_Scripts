@@ -83,7 +83,7 @@ def main():
 	args = parser.parse_args()
 
 	if len(sys.argv) < 2:
-		sys.exit("Usage: Run script as follows: vs.py -hash hash\n\n"
+		` `.exit("Usage: Run script as follows: vs.py -hash hash\n\n"
 				 	"vs.py -h for full help details")
 
 	if args.domain:
