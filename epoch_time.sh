@@ -12,8 +12,9 @@ fi
 
 # Store the epoch timestamp as a variable
 epoch_timestamp="$1"
-os=$"(uname)"
+os=$(uname)
 
+# macOS
 if [ "${os}" = "Darwin" ]; then
     # Use the 'date' command to convert the epoch timestamp to ISO format
     iso_date=$(date -u -r "${epoch_timestamp}" +"%Y-%m-%dT%H:%M:%SZ")
