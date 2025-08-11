@@ -1,0 +1,1280 @@
+Variables
+Vars
+Storage containers for values. Basically, labels to values that are stored in memory
+Have to start with a letter or underscore, Cannot use chars such as - + or start with a number
+
+ex:
+Car = 'toyota'
+
+Class variables are variables that are being shared with all instances (objects)
+
+Instance variables are variables within a class but outside any method
+They differ from instance to instance.
+Attributes are also instance variables
+https://medium.com/quick-code/understanding-self-in-python-a3704319e5f0
+
+
+Environment variables are part of the env which a process runs. For example, PATH variable to find the directory structure owned by the user running a process
+ex:
+export PATH='/'
+
+
+Class Instances and Methods
+A method is class dependent, or belonging to a specific data type.
+ex: string.upper() 
+string.lower()
+
+# A class instance
+vt = VTSafe()
+
+# instance method
+vt.domain_lookup(args.domain)
+
+instance methods can also access the class itself through the self.__class__ attribute
+self.apikey = os.environ.get("APIKEY")
+
+# see if a value is an instance of a class
+isinstance(vt, VTSafe)
+
+
+FUNCTIONS
+reusable code that will execute the given code when called
+
+
+Acc. to Pep8, the first statement of a function is a docstring
+example:
+def odd_even(digit):
+""" Return odd or even digit """
+
+https://www.python.org/dev/peps/pep-0257/
+
+len function
+
+can skip
+car = toyota
+car_len = len(car)
+print car_len
+
+with
+print (len('toyota'))
+
+statistics module
+mean, mode, median
+
+Variance
+avg of the squared differences from the mean
+
+Standard Deviation
+Square root of the variance
+The amount of variation in a set of values
+
+fun fact:
+statistics.stdev(data)
+is the same as
+math.sqrt(statistics.variance(data))
+
+
+
+def getpassword(knox_key):
+  """
+  Retrieve a value out of knox based on provided key
+  Returns a string
+  """
+  knox_object = Knox(knox_key)
+  password = knox_object.get_primary().decode('utf-8')
+
+  return password
+
+Code Blocks
+Piece of code within the same level of indentation
+
+### From sec573 ###
+Sec573 Topics Covered
+
+Regular Expressions
+Log Parsing
+Data Analysis Tools and Techniques
+Long-Tail/Short-Tail Analysis
+Geolocation Acquisition
+Blacklists and Whitelists
+Packet Analysis
+Packet Reassembly
+Payload Extraction
+argparse module
+File Operations
+
+Sec573 course format
+A VmWare offline vm for PyWars
+10 lines more or less to finish scripts in "fill in the blank" challenges
+-final are the solutions for reference
+Section 7 has all advanced CTF solutions as well
+
+
+online-smes@sans.org
+
+PyWars
+Everything is setup with custom methods: game.new_account, game.login , etc.
+
+import pyWars
+py = pyWars.exercise()
+py.question(1)
+
+
+Must submit answers within 2 seconds of requesting data
+Therefore, must manipulate .data() programatically and then submit
+def anwser1(data):
+ answer = str(data + "3")
+ return answer
+
+question.answer(1, answer1(game.data(1)))
+
+Another example
+game.answer(1, game.data(1))
+
+Objects
+every object has a type: str, int, bytes, floats, built-ins, list, dict, tuples
+Objects that are NOT iterable: integers, floats, built-ins
+Non-objects
+literals "Hello" 1,2,3.14, delimeters [], {}, (), :, operators /+-*%|<<>>
+
+Numbers (Int)
+4
+
+Floats (Float)
+AKA a decimal
+4.2
+When using in string formatting, 2f is a placeholder for floating point number
+
+String
+'4'
+
+Modulo
+the remainder after division
+
+Types
+You can see the type of an object with type
+type(a)
+similar to type -a in bash
+
+33 Keywords in Python
+These tell interpreter what to do (commands)
+keyword.kwlist
+# this returns all keywords
+
+dir function shows contents of module, such as classes and builtins
+dir(keyword)
+e.g.
+dir('raise')
+
+note: cannot use built-in keywords as variables
+
+
+MODULES
+module is a Python file that contains additional functions, variables, and runnable code
+import module_name and you're on your way
+
+can implement attributes(methods), and classes
+methods vs attributes
+methods are function.method()
+attributes are function.attribute
+
+v
+
+ex:
+module.attribute
+
+pip3 install requests
+
+time.timezone
+28800
+timezone attribute is the seconds between UTC and local time
+to avoid having to include module name every time calling an attribute or method, use following syntax:
+from time import timezone, sleep
+
+object.method
+# separated by . delimeter
+
+
+== checks if 2 expressions give the same value
+= is an assignment or a command of one value
+Python takes assignment reading from the righthand side to the left
+ex: logger = logging.getLogger(__name__)
+# logging.getLogger(__name__) is 'worked' first, it takes logging.getLogger(__name__) and puts it in memory for future use
+
+
+importing a file as module
+DART Alert Control
+alertctl.py
+
+from utilities import splunk
+
+subprocess module
+"""Script using the subprocess module for running arbitrary commands"""
+
+ex:
+import subprocess
+
+if x == 'Yes':
+ subprocess.check_call(['python3', 'file_IO.py'])
+
+
+# To increment value
+1 +=1
+
++=1 increment by 1, this adds 1 to value and assigns this to variable 
+-=1 subtract by 1
+*=1 multiply by 1
+
+
+PEMDAS
+Always use parenthesis for math operations
+(2+2) * 3
+vs
+2+2 * 3
+
+Booleans
+See Screenshot in Python_Course dir
+Order of Operations for Booleans
+
+N
+A
+O
+AND takes precedence over the OR operator
+
+base 16
+hex(a)
+# hex function called
+
+Bitwise OR operator
+|
+
+
+XOR
+exclusive OR
+^
+in other words, its exclusively an OR 1 + 1 = 0, 1 + 0 = 1, 0 + 1 = 1
+
+
+ArgParse
+The getopts equivalent for python
+import argparse
+parser = argparse.ArgumentParser('usage: show this help message')
+
+Ex iocextract.py:
+def main():
+  """Run as a commandline utility. This is a docstring"""
+  parser = argparse.ArgumentParser(
+    description="""Advanced Indicator of Compromise (IOC) extractor.
+           If no arguments are specified, the default behavior is
+           to extract all IOCs.""")   # changed --input and all susequent args to -input and so forth
+  parser.add_argument('-input', type=lambda x: io.open(x, 'r', encoding='utf-8', errors='ignore'),
+            default=io.open(0, 'r', encoding='utf-8', errors='ignore'), help="default: stdin")
+  parser.add_argument('-output', type=lambda x: io.open(x, 'w', encoding='utf-8', errors='ignore'),
+            default=io.open(1, 'w', encoding='utf-8', errors='ignore'), help="default: stdout")
+  parser.add_argument('-extract-emails', action='store_true')
+  parser.add_argument('-extract-ips', action='store_true')
+  parser.add_argument('-extract-ipv4s', action='store_true')
+  parser.add_argument('-extract-ipv6s', action='store_true')
+  parser.add_argument('-extract-urls', action='store_true')
+  parser.add_argument('-extract-yara-rules', action='store_true')
+  parser.add_argument('-extract-hashes', action='store_true')
+  parser.add_argument('-custom-regex', type=lambda x: io.open(x, 'r', encoding='utf-8', errors='ignore'),
+metavar='REGEX_FILE',
+help="file with custom regex strings, one per line, with one capture group each")
+parser.add_argument('-refang', action='store_true', help="default: no")
+parser.add_argument('-strip-urls', action='store_true',
+help="remove possible garbage from the end of urls. default: no")
+parser.add_argument('-wide', action='store_true',
+help="preprocess input to allow wide-encoded character matches. default: no")
+args = parser.parse_args()
+
+Argparse has built-in filetypes that make it easier to open files from the command line. Here’s an example of reading a file,
+you can do the same writing a file.
+
+parser = argparse.ArgumentParser()
+parser.add_argument('f', type=argparse.FileType('r'))    # very nice
+args = parser.parse_args()
+
+for line in args.f:
+  print(line.strip() )
+
+If you only want a set of allowed values used, you can set the choices list, which will display an error if invalid entry.
+
+parser = argparse.ArgumentParser(prog='roshambo.py')
+parser.add_argument('throw', choices=['rock', 'paper', 'scissors'])
+args = parser.parse_args()
+
+print("~ Throw: {}".format(args.throw))
+
+
+nargs
+nargs='+'
+Means you are using 1 or more n arguments
+If the nargs keyword argument is not provided, the number of args consumed is determined by the action.
+Generally this means a single CLI arg will be consumed and a single item (not a list) as output
+
+There is also sys and argv
+# argv -- command line arguments; argv[0] is the script pathname if known
+import sys
+("Usage: {}.format(sys.argv))
+sys.argv is your list of arguments
+
+Since sys.argv is simply a list, you can grab blocks of arguments or slice around as you would any other list.
+
+Last argument: sys.argv[-1]
+All args after first: " ".join(sys.argv[2:])
+
+optparse has similar functionality
+
+The line store_true will cause the command to store the boolean value True if the argument --username is given, rather then storing the next value.
+
+something along the lines of action='store'
+
+Was getting
+optparse.OptionError: option -v/--verbose: invalid action: 'store true'
+
+after changing from action="store true" to action="store"
+got
+(venv) dzendejas-46CJGH6:Splunk dzendejas$ python3 list_alerts.py
+Usage: list_alerts.py --help for options
+
+
+
+### From sec573 ###
+
+regex
+Table
+
+Regex characters match on preceding pattern. For example \d{3}\d = match pattern of 3 digits.
+
+\d
+any digit 0-9
+\s
+any space
+\S
+any non-space, tab, newline
+
+
+\w 
+single word char [A-Za-z0-9_]
+
+\W
+NOT a single word char
+?
+-?\d = match whether or not a hyphen is in the text
+
+?
+'nongreedy' , it will match the shortest string0 or one times
+Also means Optional
+e.g.
+\s?
+
++ 
+repeat previous character one or more times 
+
+.
+Any single character wildcard 
+
+.*
+'Greedy', will match anything
+
+
+^
+START of regex pattern
+^
+Can also mean a NOT. [^rex] means anything but rex
+
+$
+END of regex pattern
+{}
+means match # of the pattern , e.g. \d{3} = match digit 3 times
+Can also specify ranges, \d{1,4}
+\
+to escape any character
+
+.group()
+
+(?<email>.*)@
+Means in the group of non-greedy email, match anything after/following the group with an @ character
+
+
+Keywords
+import keyword
+keyword.kwlist
+# returns all keywords in python
+e.g.
+dir('raise')
+
+Another example
+dir(re)
+['A', 'ASCII', 'DEBUG', 'DOTALL', 'I', 'IGNORECASE', 'L', 'LOCALE', 'M', 'MULTILINE', 'Match', 'Pattern', 'RegexFlag', 'S', 'Scanner', 'T', 'TEMPLATE', 'U', 'UNICODE', 'VERBOSE', 'X', '_MAXCACHE', '__all__', '__builtins__', '__cached__', '__doc__', '__file__', '__loader__', '__name__', '__package__', '__spec__', '__version__', '_cache', '_compile', '_compile_repl', '_expand', '_locale', '_pickle', '_special_chars_map', '_subx', 'compile', 'copyreg', 'enum', 'error', 'escape', 'findall', 'finditer', 'fullmatch', 'functools', 'match', 'purge', 'search', 'split', 'sre_compile', 'sre_parse', 'sub', 'subn', 'template']
+
+Therefore, you can use any of these in a method all
+if re.search(ip):
+  return ip
+
+
+"\d{1,3}.\d{1,3}\.\d{1,3}\.\d{1,3}"
+
+var.strip()
+
+
+
+# to remove whitespaces, treat them the same as no space
+strip() method will remove the spaces at the start at end of string unless otherwise stated i.e. rstrip(), lstrip()
+
+split() will be better if you want to remove ALL whitespace. Tabs, spaces, newlines, etc.
+call method at the string
+message = ' '.join(sys.argv[3].split())
+
+.remove() method will remove the first occurrence of the element that is given as the argument in the list. 
+.remove("username") removes the first occurrence of the string "username"
+
+.search()
+Checks for matches anywhere in a string
+This is also what Perl does by default
+
+
+.findall() method
+useful for returning all matching strings from a list, etc.
+e.fg.
+number = re.compile(r'\d')
+number.findall('Grocery items: Milk: $3, Bread: $5, Eggs: $4)
+
+Another example of accessing values through methods and attributes
+from the requests module
+> requests.codes.temporary_redirect
+307
+
+>>> requests.codes.not_found
+404
+
+
+example of using argaprse
+args.variable_name
+https://phabricator.pinadmin.com/D376250
+
+
+Control Structures
+
+Conditionals
+Most programs will require you to check conditions and change outcome based off of it
+while, for, and if
+
+IF STATEMENT - if statements are conditionals that are essentially executing blocks of code if a coniditon is true
+
+IF STATEMENTS
+If statements in their simplest form
+# At the interpreter
+if 'aul' in 'grault':        # Truthy
+ print('yes')
+
+if 'quux' in ['foo', 'bar', 'baz']: # Falsy
+ print('yes')
+
+Reminder: Indentation is what dictates end of blocks
+if 'aul' in 'grault':        # Truthy
+ print('yes')
+
+if 'quux' in ['foo', 'bar', 'baz']: # Falsy
+ print('yes')
+
+print('Okay')            # New block
+Other languages denote the end of a code block with pairs of curly braces ({}) like this:
+
+if (y > x) {
+  <statement>;
+  <statement>;
+ 
+  <statement>;
+}
+
+
+While Loop
+Control structure used for indefinite Iteration
+
+# Iterating over a multi-line list
+list = [
+  'contains-elf', 'contains-macho', 'contains-pe',
+  'contains-rom', 'copy-file', 'copycontrol', 'coredump',
+  'corrupt', 'create-dir', 'create-file', 'create-ole',
+  'createinstall', 'crinkler', 'crunch', 'crypkey',
+  'dbpe', 'ddem', 'dell-pfs', 'depack', 'diminisher', 'dingboy',
+  'diprotector', 'djoin', 'docx', 'domain-pattern',
+  'dos-stub', 'download'
+]
+
+while True:
+ if not list:
+  break
+ print(list.pop(-1))   # .pop() method
+
+
+#Example of while loop not executing
+d = {'foo': 1, 'bar': 2, 'baz': 3}
+while len(d) > 3:
+  print(d.popitem())
+print('Done.')
+# Because d is = 3 and NOT > 3 this statement is false, therefore never #executes at all.
+
+One-Liners (although discouraged by PEP8)
+
+# to clear a list of 'a'
+while a: a.pop()
+https://realpython.com/quizzes/python-while-loop/results/?t=eyJjIjo5LCJuIjo5LCJxIjoxNiwic2lnIjoiayNXcSV2eXBvTSN1SlcwJWZDWHpDKWlSWEclZnFYM2wwP301YXU8KSIsInQiOjcwNSwidiI6M30=
+
+HOW TO GET HELP on a function or method
+help(list)
+OR
+python3 -m pydoc list.pop
+# Kind of like man page equivalent in bash
+
+FOR LOOP
+Definite Iteration, or execution of a statement or block of statements repeatedly.
+
+Collection based for loop
+
+for i in <collection>:
+###
+variable i takes on the value of the next object in <collection>. This type of for loop is arguably the most generalized
+
+for item in car:
+  print(item.lower())
+# the item referenced in the list is passed through in statement to execute, this means FOR each item iterate in the list
+
+if getting the traceback
+ValueError: too many values to unpack (expected 2)
+# There are too many sequences being referenced to loop through
+A way to solve this is using zip module builtin, it yields n tuples which allows it to solve issue of too many values to unpack
+
+
+https://stackoverflow.com/questions/13299357/valueerror-too-many-values-to-unpack
+
+
+Append method
+car = ['honda', 'subaru', 'suzuki']
+car.append('miata')
+print(car)
+
+# another list implementation example
+def get_non_US_hits(self, hits):
+    non_us_countries = defaultdict(int)
+    non_us_hits = []
+
+    for h in hits:
+      country = h['countryName']
+      if self._is_country_foreign(country):
+        non_us_hits.append(h)
+        non_us_countries[country] += 1
+
+
+
+
+built-in function help
+help(iter)
+iter(callable, sentinel) ->
+callable, the value you call in the loop
+sentinel is the value that guarantees the termination of the loop
+
+
+Tuples
+comma-separated sequence of values. Essentially grouped pairs, comma separated immutable values
+accessed by index
+
+car = ("Car", "subaru", 2004, "wrx")
+Note: In Python, any comma in a list or function call will auto-add spaces to the stdout
+ex:
+print("string",3 + 4,b \x41\x42' )
+
+will output
+string 7 b AB
+
+Ex:
+car = ("subaru", "2004", "wrx")
+however the following is also acceptable code
+car = ("subaru",)
+
+Can change/convert a tuple into a list
+week_days = ('Monday', 'Tuesday', 'Wednesday')
+week_days_list = list(week_days)
+
+
+LISTS
+Collection of Mutable sequences 
+https://docs.python.org/3/library/stdtypes.html#list
+Use []
+
+The argument in a list must be an iterable if specified. [] brackets
+Note: Parameters are passed at function definition time, 
+arguments are passed at run time. (when the function is called)
+def func(parameter):
+    do something
+
+func(arg)
+
+if r['positives'] >=5:
+# Looking for the key value 'positives' within a list
+
+list = ['honda', 'subaru', 'suzuki']
+
+Slices
+The last index specified is NOT part of the slice
+ex:
+first_three = cars[0:3]
+
+call an indexed position like this 
+cars[1]
+
+Sort lists
+
+list.sort()
+
+sorted(["value", "another", "value"])
+
+or for the reverse
+print(sorted(["value", "another", "value"], reverse=True))
+
+
+
+Dictionaries
+Use {} , accessed via keys
+can be defined either
+dict = {}
+d = dict()
+
+
+AKA hash tables, assoc. arrays
+Accessed by key
+
+dict = {'key': 'value'}
+
+To access the values
+dict[key]
+
+for key_variable in dict_name:
+#for hash in hash_table
+hash_table[hash]
+
+
+dict_name.values()
+
+returns True if value exists in dict
+
+How would you det. if '555-0897' is a value in the following Dictionary?
+contacts = {‘Jason’: ‘555-0123’, ‘Carl’: ‘555-0987’}
+
+'555-0987' in contacts.values()
+
+
+to iterate through a dictionary, access its keys
+for k in d:
+  print(d[k])
+
+to iterate through keys and values, simultaneously
+for k, v in d.items():
+  print('k =', k, ', v =', v)
+
+
+
+The *args and **kwargs is a common idiom to allow arbitrary number of args 
+to functions as described in the section more on defining functions
+http://docs.python.org/3/tutorial/controlflow.html#more-on-defining-functions in Python documentation.
+
+# How to merge two dictionaries # in Python 3.5+
+x = {'a': 1, 'b': 2}
+y = {'b': 3, 'c': 4}
+z = {**x, **y}
+z {'c': 4, 'a': 1, 'b': 3}
+
+# In Python 2.x you could use this:
+z = dict(x, **y)
+z {'a': 1, 'c': 4, 'b': 3} # In these examples, Python merges dict keys
+# in the order listed in the expression, overwriting duplicates from left to right.
+
+
+
+OOP
+Inheritance 
+We’re able to access methods and attributes from a class and use them in another class 
+One parent class holds the methods that are common between the new classes, and each child class only holds what is unique. 
+class RetirementAccount(BankAccount):
+    def __init__(self, int_rate, is_roth, balance=0):
+	self.int_rate = int_rate
+	self.balance = balance
+	self.is_roth = is_roth  
+^^ here we can access int_rate, and balance from the BankAccount class and use them
+
+
+
+
+Getting User input
+raw_input() in Python 2 behaves just like input() in Python 3
+
+car = input('Enter a make and model: ')
+print ('Your chosen make and model is {}' )
+
+For input validation, one option is to use while loop
+
+while True:
+if var > 3:
+ print ('please choose a higher number')
+continue
+The continue keyword is used to skip an iteration
+
+continue and break statement
+will ONLY work in 'for' or 'while' loops
+
+Modulo Operator %
+gives the remainder from the division of the first argument by the second.
+Remainder when a is divided by b
+
+
+
+Try Block
+Try and except block for error handling
+The except clause determines how your program responds to exceptions, use case would be to modify or give a more clear error message
+When code is syntactically correct but there is an error with executing, this is an EXCEPTION
+
+Never use bare except clauses, instead use specific exceptions
+i.e. don't use
+except:
+ print("Unexpected error:")
+use
+except ValueError:
+  print("Could not convert data to an integer.")
+
+
+
+Files
+Opening a file for reading, and file doesn't exist will throw an error
+
+open and read a file
+test_file = open('c:test.txt', 'read')
+
+
+Writing to files
+https://realpython.com/read-write-files-python/#reading-and-writing-opened-files
+
+with open('filepath', 'mode' )
+ex:
+open('/Project/lists.py', 'w')
+
+' {}'.format
+or
+{}.'.format
+
+
+Good explanation -writing to a file
+https://realpython.com/read-write-files-python/
+
+NOTE: when using .write()
+this will overwrite contents. 9/10 it is better to use .append or with open(file, 'a') as file:
+
+Line endings
+\n - UNix
+\r\n - Windows
+
+
+
+Special variable
+if __name__ == '__name__':
+main()
+# This controls program behavior , main() executes the main code block or function only as direct run(interactively) and not when imported as a module.
+
+
+Json Parsing
+
+json.loads take a string as input and returns a dictionary as output. Takes json and returns dictionary
+json.loads(data_str)
+
+json.dumps take a dictionary as input and returns a string as output.
+json.dumps(dict, indent=2)
+
+json.dump takes a dictionary as input and returns a JSON fomratted object. (Will write to a file)
+json.dump(dict, file)
+
+example of json.loads
+w/ googlebooks api
+https://www.googleapis.com/books/v1/volumes?q=isbn:1101904224
+
+raw output looks like
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "1imJDAAAQBAJ",
+   "etag": "j2TDLbVMmzA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1imJDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Dark Matter",
+    "subtitle": "A Novel",
+    "authors": [
+     "Blake Crouch"
+    ],
+
+one big list ['items']
+
+object = json.loads(decoded_text)
+
+object['totalItems']
+
+then to get the values for the keys, since 0 is the whole list
+
+for value in object['items'][0].values():
+  print(value)
+
+
+
+Csvs
+read and write data in dictionary form using the DictReader and DictWriter classes.
+
+Pandas
+
+#pandas csv manipulation
+df = pandas.read_csv(scan_result)
+#sending to remote_logs dir
+df.to_csv('/data/remote_logs/tenable/raw/tcp_syn_scan.csv', columns = header)
+
+
+
+Scannerbot workflow
+mkdir ScannerBot
+mv ScannerBot.py ScannerBot/
+ls
+vi kickstarscannerbot.sh
+crontab - l
+crontab -l
+crontab -e
+crontab -l
+cat kickstarscannerbot.sh
+ps aux |grep -v grep | grep ScannerBot.py
+exit
+ls
+ps aux |grep -v grep | grep ScannerBot.py
+crontab -l
+/home/logthis/kickstarscannerbot.
+crontab -e
+crontab -l
+ps aux |grep -v grep | grep ScannerBot.py
+exit
+ps aux |grep -v grep | grep ScannerBot.py
+crontab -l
+/home/logthis/ScannerBot/kickstarscannerbot.sh
+ls
+cd ScannerBot/
+ls
+cat ScannerBotErrors.txt
+python3 ScannerBot.py
+
+
+Pycharm
+binary in /usr/local/bin/charm
+Press and Hold Keys
+defaults write -g ApplePressAndHoldEnabled 0
+
+double space to autocomplete class name, and include import statement if it is not already
+
+jupyter
+
+notebooks
+blue = selected
+green = edit
+esc key to escape
+
+
+defaultdict
+From the collections module, Adds an instance variable, the default_factory parameter. This allows a dictionary to be used and not have the KeyError: traceback be returned
+This can be seen in the following
+state = default_dict(lambda:[])
+
+
+Itertools Module
+Permutations
+can see how many variations are available for a piece of data
+
+permutations(
+      [
+        date_range("20180101", periods=4),
+        date_range("20180101", periods=4, tz="US/Eastern"),
+        timedelta_range("0 days", periods=4),
+      ],
+
+combos = {'mancub': 'one', 'anmancub': 'two', 'cubman': 'three'}
+
+for i in itertools.permutations(combos):
+  print(i)
+vs
+for i in itertools.combinations(combos):
+  print(i)
+
+permutations gives variations of values in different order
+combinations gives unique combinations based off the given 'r' variable in combinations(iterable_value, r)
+
+
+
+Sublime Configs
+Preferences
+Python.sublime-settings
+
+Users⁩ ▸ ⁨zen⁩ ▸ ⁨Library⁩ ▸ ⁨Application Support⁩ ▸ ⁨Sublime Text 3⁩ ▸ ⁨Packages⁩ ▸ ⁨User⁩ ▸ ⁨Python.sublime-settings
+
+
+
+Working with HTML
+
+In Dev tools when copying a tag, select copy xpath
+this will select the HTML element
+e.g.
+//*[@id="conclusions"]/h2
+
+
+
+Knox
+AutoKnox(knox_key)
+just doesn't work
+raise KnoxException("Knox failed to get key %s: %s" % (self.key_id, err))
+knox.KnoxException: Knox failed to get key dart:splunkapi:dart: b't=2020-08-13T17:19:25+0000 lvl=eror msg="Error getting key from daemon; check knox logs for details"\n'
+
+Knox(knox_key)
+only module function that works
+
+
+requests module has a session method. This creates a "browser" to remember cookies, headers, etc.
+outbound headers are stored in a dict, browser.headers[] you can modify this as needed
+
+requests.post
+Use json=payload
+
+before
+request =requests.post(url ="https://hooks.slack.com/services/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",json={'text':'SEV LEVEL HIGH'})
+       
+request =requests.post(url ="https://hooks.slack.com/services/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",json={'text':convert_to_json})
+
+
+requests.post(
+    url="https://hooks.slack.com/services/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",
+    json={'text': sev_level},
+  )
+ requests.post(
+    url="https://hooks.slack.com/services/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",
+    json={'text': convert_to_json},
+  )
+
+
+
+before
+ attributes_wanted = ['plugin','asset','cve']
+ attributes_wanted2 = ['hostname']
+ keys = (get_keys())
+
+
+ after
+ attributes_wanted = ['plugin', 'asset', 'cve']
+
+
+counter
+ += adds another value with the variable's value and assigns the new value to the variable.
+
+ ex: count += 1
+ this adds increments of 1 with the existing value and is assigned it
+
+ +1 adds
+
+
+ Package Managing
+
+ virtualenv -p /usr/bin/python3 venv
+ source venv/bin/activate
+
+or
+mkdir project; cd project
+python3 -m venv project_venv
+source project_venv/bin/activate
+
+# sample function for getting time ins strf formatted time
+ def getDate(days_ago):
+  return (datetime.now() - timedelta(days=days_ago)).strftime("*%Y.%m.%d")
+
+
+
+  Add package to requirements.txt
+  pip install -r requirements.txt (in a virtualenv that only has Limousin's dependencies
+  Replace contents of requirements.txt with the output of pip freeze run on the aforementioned virtualenv.
+
+
+    per brad 
+
+    git checkout branch_1 > git commit -a -m " " > git checkout master > git merge branch_1
+    yes, this works ^^
+
+Using pipinstaller to create packages
+(custom script going to be distributed as a pkg)
+
+pip3 install pyinstaller
+
+-W -F tool.py
+
+This way, its packaged as an executable which can be run on systems even without python
+
+
+Basically what you want to do is
+take all files, or filepaths
+append .txt or .csv suffix
+account for underscore and split at it
+convert timestamp from epoch to human readable
+print output
+
+
+To avoid
+ValueError: invalid literal for int() with base 10:
+from
+timestamp = datetime.utcfromtimestamp(int(stmp[0]))
+changed to print("Fetching {}".format(convert_times(output[0]).strftime(TIME_FORMAT))
+
+output is
+Fetching 1970-01-01T00:00:01.000000Z
+None
+
+instead of
+# output = []
+with open('/Users/dzendejas/Splunk_Backups/pinterest-spokane-cpe-paths.txt', 'r') as f:
+for line in f:
+output = line.strip().split('_')
+
+do
+  with open('/Users/dzendejas/Splunk_Backups/pinterest-spokane-cpe-paths.txt', 'r') as f:
+for line in f:
+output = line.strip().split('_')
+
+
+
+dir_files = os.scandir(directory)
+for file in dir_files:
+if file.is_file():
+# rename_file(file)
+# os.rename(file, "{}_{}.txt".format(start, end))
+output = split_values(file)
+try:
+# prev was start = convert_epoch_to_human_readable(output[0]).strftime(TIME_FORMAT)
+# did not need a double strftime, convert_epoch_to_human_readable already covers it
+start = convert_epoch_to_human_readable(os.path.basename(output[0]))
+end = convert_epoch_to_human_readable(output[1])
+print("{}_{}.txt".format(start, end))
+os.rename(file, "{}_{}.txt".format(start, end))
+except ValueError as ve:
+print(ve)
+
+
+tried
+
+if start_time < start and start_time is not None:
+    found_times = True
+    print("{}\t\t\t {}_{} is {}_{}".format(output, start_converted_time, end_converted_time, start, end))
+elif end_time > end and end_time is not None:
+    found_times = True
+
+# meaning args.start_time is less than(within) file times it is searching through and args.end_time is greater than file time is searching through(up to). In other words its limit
+
+
+ if start_time > start and start_time is not None:
+          found_times = True
+          print("{}\t\t\t {}_{} is {}_{}".format(output, start_converted_time, end_converted_time, start, end))
+ elif end_time < end and end_time is not None:
+
+
+changing the operators
+
+if start_time < start and start_time is not None:
+          found_times = True
+          print("{}\t\t\t {}_{} is {}_{}".format(output, start_converted_time, end_converted_time, start, end))
+elif end_time < end and end_time is not None:
+
+
+if I remove the elif
+
+elif end_time > end and end_time is not None:
+
+I get no matches at all
+
+
+Beyond confused
+
+after troubleshooting float and str issue,
+went with
+
+start_time = args.start_time
+end_time = args.end_time
+and
+start = str(epoch_times[0])
+end = str(epoch_times[1])
+
+python3 test_formatter.py -i backups/ad -s 2020-01-15 -e 2020-01-30
+backups/ad/db_1575274961_1570518000_173_3BADDA81-473D-4172-9D28-848B3EF65D42/rawdata/journal.gz         is 1579046400.0_1580342400.0
+backups/ad/db_1575629074_1553079079_191_10F1483F-38A7-412B-A004-071C298B5F68/rawdata/journal.gz         is 1579046400.0_1580342400.0
+backups/ad/db_1576872001_1566702683_204_7FBA7677-38AE-4DF6-AC81-409A68A72AC9/rawdata/journal.gz         is 1579046400.0_1580342400.0
+backups/ad/db_1577508541_1569742744_589_10F1483F-38A7-412B-A004-071C298B5F68/rawdata/journal.gz         is 1579046400.0_1580342400.0
+backups/ad/db_1578341925_1572299199_196_7FBA7677-38AE-4DF6-AC81-409A68A72AC9/rawdata/journal.gz         is 1579046400.0_1580342400.0
+backups/ad/db_1578815049_1571050199_185_10F1483F-38A7-412B-A004-071C298B5F68/rawdata/journal.gz         is 1579046400.0_1580342400.0
+
+then get a AttributeError: 'str' object has no attribute 'start_time'
+when trying to convert args.start_time back to epoch
+
+  start_time = convert_to_epoch(args.start_time)
+  end_time = convert_to_epoch(args.end_time)
+
+
+if 2020-01-12 < 2019-12-02
+if start < start_time and start is not None:
+basically
+if 1578787200 < 1575274961 :  # this is not True
+
+elif 2020-01-30 > 2019-10-08:
+elif end > end_time and end is not None:
+elif 1580342400.0 > 1570518000: # this is True
+
+worked when switching to if only
+if start < start_file_time and end > end_file_time:
+however, in order to match better and not literally everything where end > end_time
+
+full directives table
+
+directive meaning
+%Y Year with century, as in '2014'
+%y Year without century, '00' to '99' (1970 to 2069)
+%m Month as a decimal number, '01' to '12'
+%B Full month name, as in 'November'
+%b Abbreviated month name, as in 'Nov'
+%d Day of the month, '01' to '31'
+%j Day of the year, '001' to '366'
+%w Day of the week, '0' (Sunday) to '6' (Saturday)
+%A Full weekday name, as in 'Monday'
+%a Abbreviated weekday name, as in 'Mon'
+%H Hour (24-hour clock), '00' to '23'
+%I Hour (12-hour clock), '01' to '12'
+%M Minute, '00' to '59'
+%S Second, '00' to '59'
+%p 'AM' or 'PM'
+%% Literal '%' character
+
+File
+1524773859_1510170737_423_3BADDA81
+
+this translates to Thursday, April 26, 2018 1:17:39 PM PDT
+and Wednesday, November 8, 2017 11:52:17 AM PDT
+
+It only works for odd indexes
+print("Fetching {}".format(convert_times(output[1]).strftime(TIME_FORMAT))
+NOT for
+print("Fetching {}".format(convert_times(output[2]).strftime(TIME_FORMAT))
+
+get_files.py
+getting output of
+2018-04-26T13:17:39.000000Z - 2017-11-08T11:52:17.000000Z
+
+doing it this way
+
+start = convert_times(output[0]).strftime(TIME_FORMAT)
+end = convert_times(output[1]).strftime(TIME_FORMAT)
+print("{} - {}".format(start, end))
+
+getting the following output, does not follow the same logic of odd indexes only 
+1970-01-01T00:00:01.000000Z - 2018-04-26T20:17:39.000000Z
+
+
+
+Standard Library
+Builtins, functions, modules
+
+decorators
+
+closures
+def outer():
+  message = 'Test1'
+
+  def inner():
+    print(message)
+
+  return inner()
+
+outer()
+
+then
+def outer():
+  message = 'Test1'
+
+  def inner():
+    print(message)
+
+  return inner
+
+test = outer()
+test()
+
+Put it simply, closures are when an inner func remembers the env it was created in and has access to the variables in their local scope. Even after outer func finished executing
+here, inner() remembers and has access to message even when outer() executes
+
+decorators take a func as an arg, adds functionality, and returns another function
+
+def outer(message):
+
+  def inner():
+    print(message)
+  return inner
+
+test = outer()
+test()
+
+now instead of printing a message, were going to execute a function that we pass in
+
+def outer_func(original_func):
+
+  def inner():
+   return original_func()
+  return inner
+
+def display():
+  print("display that function ran")
+
+decorated_display = outer_func(display)
+decorated_display()
+
+with this setup, we can go into inner function and modify,
+without having to modify other functions
+
+def outer_func(original_func):
+
+  def inner():
+    print("this executes before {}".format(original_func.___name__)
+   return original_func()
+  return inner
+
+@outer_func
+def display():
+  print("display that function ran")
+
+display()
+
+Here ^^
+@outer_func is the same as decorated_display = outer_func(display)
+
+
+working on session
+fix KeyError: user_id
+
+
+django
+validation
+if len(errors) > 0:
+for key, value in errors.items():
+messages.error(request, value)
+# messages.error(request, error, extra_tags=tag)
+return redirect('/')
+
+
+absolute imports bs relative imports
+absolute
+package2/subpackage1/module5.py contains a function, function2
+from package2.subpackage1.module5 import function2
+https://realpython.com/absolute-vs-relative-python-imports/#absolute-imports
