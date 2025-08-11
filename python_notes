@@ -472,14 +472,8 @@ if 'aul' in 'grault':        # Truthy
 if 'quux' in ['foo', 'bar', 'baz']: # Falsy
  print('yes')
 
-Reminder: Indentation is what dictates end of blocks
-if 'aul' in 'grault':        # Truthy
- print('yes')
 
-if 'quux' in ['foo', 'bar', 'baz']: # Falsy
- print('yes')
 
-print('Okay')            # New block
 Other languages denote the end of a code block with pairs of curly braces ({}) like this:
 
 if (y > x) {
