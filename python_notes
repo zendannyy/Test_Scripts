@@ -335,7 +335,7 @@ optparse.OptionError: option -v/--verbose: invalid action: 'store true'
 
 after changing from action="store true" to action="store"
 got
-(venv) dzendejas-46CJGH6:Splunk dzendejas$ python3 list_alerts.py
+(venv) 46CJGH6:Splunk$ python3 list_alerts.py
 Usage: list_alerts.py --help for options
 
 
@@ -452,7 +452,6 @@ from the requests module
 
 example of using argaprse
 args.variable_name
-https://phabricator.pinadmin.com/D376250
 
 
 Control Structures
@@ -518,7 +517,7 @@ while a: a.pop()
 https://realpython.com/quizzes/python-while-loop/results/?t=eyJjIjo5LCJuIjo5LCJxIjoxNiwic2lnIjoiayNXcSV2eXBvTSN1SlcwJWZDWHpDKWlSWEclZnFYM2wwP301YXU8KSIsInQiOjcwNSwidiI6M30=
 
 HOW TO GET HELP on a function or method
-help(list)
+help(list.pop)
 OR
 python3 -m pydoc list.pop
 # Kind of like man page equivalent in bash
@@ -533,7 +532,7 @@ for i in <collection>:
 variable i takes on the value of the next object in <collection>. This type of for loop is arguably the most generalized
 
 for item in car:
-  print(item.lower())
+    print(item.lower())
 # the item referenced in the list is passed through in statement to execute, this means FOR each item iterate in the list
 
 if getting the traceback
@@ -817,7 +816,7 @@ object['totalItems']
 then to get the values for the keys, since 0 is the whole list
 
 for value in object['items'][0].values():
-  print(value)
+    print(value)
 
 
 
@@ -1033,32 +1032,33 @@ None
 
 instead of
 # output = []
-with open('/Users/dzendejas/Splunk_Backups/pinterest-spokane-cpe-paths.txt', 'r') as f:
+with open('/Users/user/Splunk_Backups/filepaths.txt', 'r') as f:
 for line in f:
-output = line.strip().split('_')
+    output = line.strip().split('_')
 
 do
-  with open('/Users/dzendejas/Splunk_Backups/pinterest-spokane-cpe-paths.txt', 'r') as f:
+
+with open('/Users/user/Splunk_Backups/file-paths.txt', 'r') as f:
 for line in f:
-output = line.strip().split('_')
+    output = line.strip().split('_')
 
 
 
 dir_files = os.scandir(directory)
 for file in dir_files:
-if file.is_file():
+    if file.is_file():
 # rename_file(file)
 # os.rename(file, "{}_{}.txt".format(start, end))
 output = split_values(file)
 try:
-# prev was start = convert_epoch_to_human_readable(output[0]).strftime(TIME_FORMAT)
-# did not need a double strftime, convert_epoch_to_human_readable already covers it
-start = convert_epoch_to_human_readable(os.path.basename(output[0]))
-end = convert_epoch_to_human_readable(output[1])
-print("{}_{}.txt".format(start, end))
-os.rename(file, "{}_{}.txt".format(start, end))
+    # prev was start = convert_epoch_to_human_readable(output[0]).strftime(TIME_FORMAT)
+    # did not need a double strftime, convert_epoch_to_human_readable already covers it
+    start = convert_epoch_to_human_readable(os.path.basename(output[0]))
+    end = convert_epoch_to_human_readable(output[1])
+    print("{}_{}.txt".format(start, end))
+    os.rename(file, "{}_{}.txt".format(start, end))
 except ValueError as ve:
-print(ve)
+    print(ve)
 
 
 tried
