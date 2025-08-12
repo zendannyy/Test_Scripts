@@ -416,7 +416,7 @@ if re.search(ip):
 
 "\d{3}-\d{3}-\d{4}"
 vs
-"\(\d{3}\)-\d{3}-\d{4}"
+"(\d{3}-)?\d{3}-\d{4}" # either or with area code
 var.strip()
 
 
@@ -450,9 +450,6 @@ from the requests module
 >>> requests.codes.not_found
 404
 
-
-example of using argaprse
-args.variable_name
 
 
 Control Structures
