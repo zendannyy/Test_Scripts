@@ -158,11 +158,15 @@ similar to type -a in bash
 
 33 Keywords in Python
 These tell interpreter what to do (commands)
+import keyword
 keyword.kwlist
 # this returns all keywords
 
 dir function shows contents of module, such as classes and builtins
 dir(keyword)
+e.g.
+dir('raise')
+
 e.g.
 dir('raise')
 
@@ -364,7 +368,7 @@ NOT a single word char
 -?\d = match whether or not a hyphen is in the text
 
 ?
-'nongreedy' , it will match the shortest string0 or one times
+'nongreedy' , match pervious character zero or one times
 Also means Optional
 e.g.
 \s?
@@ -398,12 +402,6 @@ to escape any character
 Means in the group of non-greedy email, match anything after/following the group with an @ character
 
 
-Keywords
-import keyword
-keyword.kwlist
-# returns all keywords in python
-e.g.
-dir('raise')
 
 Another example
 dir(re)
