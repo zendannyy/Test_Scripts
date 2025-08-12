@@ -489,25 +489,25 @@ Control structure used for indefinite Iteration
 
 # Iterating over a multi-line list
 list = [
-  'contains-elf', 'contains-macho', 'contains-pe',
-  'contains-rom', 'copy-file', 'copycontrol', 'coredump',
-  'corrupt', 'create-dir', 'create-file', 'create-ole',
-  'createinstall', 'crinkler', 'crunch', 'crypkey',
-  'dbpe', 'ddem', 'dell-pfs', 'depack', 'diminisher', 'dingboy',
-  'diprotector', 'djoin', 'docx', 'domain-pattern',
-  'dos-stub', 'download'
+    'contains-elf', 'contains-macho', 'contains-pe',
+    'contains-rom', 'copy-file', 'copycontrol', 'coredump',
+    'corrupt', 'create-dir', 'create-file', 'create-ole',
+    'createinstall', 'crinkler', 'crunch', 'crypkey',
+    'dbpe', 'ddem', 'dell-pfs', 'depack', 'diminisher', 'dingboy',
+    'diprotector', 'djoin', 'docx', 'domain-pattern',
+    'dos-stub', 'download'
 ]
 
 while True:
  if not list:
-  break
+    break
  print(list.pop(-1))   # .pop() method
 
 
 #Example of while loop not executing
 d = {'foo': 1, 'bar': 2, 'baz': 3}
 while len(d) > 3:
-  print(d.popitem())
+    print(d.popitem())
 print('Done.')
 # Because d is = 3 and NOT > 3 this statement is false, therefore never #executes at all.
 
@@ -583,10 +583,6 @@ print("string",3 + 4,b \x41\x42' )
 will output
 string 7 b AB
 
-Ex:
-car = ("subaru", "2004", "wrx")
-however the following is also acceptable code
-car = ("subaru",)
 
 Can change/convert a tuple into a list
 week_days = ('Monday', 'Tuesday', 'Wednesday')
