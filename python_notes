@@ -433,11 +433,12 @@ message = ' '.join(sys.argv[3].split())
 
 .search()
 Checks for matches anywhere in a string
+Will return a Match object of the first matched text
 This is also what Perl does by default
 
 
 .findall() method
-useful for returning all matching strings from a list, etc.
+useful for returning ALL matching strings from a list, etc.
 e.fg.
 number = re.compile(r'\d')
 number.findall('Grocery items: Milk: $3, Bread: $5, Eggs: $4)
