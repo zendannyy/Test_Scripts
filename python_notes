@@ -377,7 +377,7 @@ e.g.
 repeat previous character one or more times 
 
 .
-Any single character wildcard 
+Any single character wildcard, except for the newline character
 
 .*
 'Greedy', will match anything
