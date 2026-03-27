@@ -5,8 +5,10 @@ The idea is you have a specific IOC to lookup in VT, and want a quick response a
 import os
 import sys
 import argparse
+import logging
 import requests
 
+logger = logging.getLogger(__name__)
 
 class VTSafe:
 	"""for VTSafe class, holding the key and parameters"""
@@ -23,12 +25,12 @@ class VTSafe:
 
 		try:
 			if d['positives'] >= 3:
-				print("malicious threshold met, investigate")
-				print(d['permalink'])
+				logging.info("malicious threshold met, investigate")
+				logging.info(d['permalink'])
 			elif d['positives'] <= 3:
-				print("malicious threshold not met for:" + str(resource))
+				logging.info("malicious threshold not met for: " + str('resource'))
 		except KeyError as ke:
-			print("Not found in virustotal:", domain)
+			logging.error("Not found in virustotal:", domain)
 
 	def hash_lookup(self, hash):
 		"""Get request for hash that specified by user as input"""
@@ -40,14 +42,13 @@ class VTSafe:
 
 		try:
 			if h['positives'] >= 5:		# greater than 10 hits
-				print("malicious threshold met, investigate")
-				print(h['permalink'])
+				logging.info("malicious threshold met, investigate")
+				logging.info(h['permalink'])
 			elif h['positives'] <= 5:
-				print("malicious confidence & threshold not met for: " + str(h['md5']))
-				print(str(h['positives']) + " hits")
+				logging.info("malicious confidence & threshold not met for: " + str(h['md5'], str(h['positives']) + " hits"))
 
 		except KeyError as ke:
-			print("Not found in virustotal:", hash)
+			logging.error("Not found in virustotal:", hash)
 		finally:
 			pass
 
@@ -59,12 +60,12 @@ class VTSafe:
 
 		try:
 			if u['positives'] >= 3:
-				print("malicious threshold met, investigate")
-				print(u['permalink'])
+				logging.info("malicious threshold met, investigate")
+				logging.info(u['permalink'])
 			elif u['positives'] <= 3:
-				print("malicious threshold not met for:" + str(resource))
+				logging.info("malicious threshold not met for:" + str('resource'))
 		except KeyError as ke:
-			print("Not found in virustotal:", url)
+			logging.error("Not found in virustotal:", url)
 
 
 def main():
@@ -82,10 +83,6 @@ def main():
 
 	args = parser.parse_args()
 
-	if len(sys.argv) < 2:
-		sys.exit("Usage: Run script as follows: vs.py -hash hash\n\n"
-				 	"vs.py -h for full help details")
-
 	if args.domain:
 		resource = args.domain
 		vt.domain_lookup(args.domain)
@@ -101,7 +98,6 @@ def main():
 		vt.process_file(args.hash_file, 'hash')
 
 	if args.url:
-		# resource = args.url
 		vt.url_lookup(args.url)
 	
 	if args.url_file:
